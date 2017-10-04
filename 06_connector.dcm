@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 105017-0001
+D molex, USB Micro-B, SMD
+K molex, USB Micro-B, SMD
+$ENDCMP
+#
+$CMP 53048-0210
+D Molex, 1.25mm, Header, Right angle, pico blade, through hole
+K Molex, 1.25mm, Header, Right angle, pico blade, through hole
+$ENDCMP
+#
+$CMP DF40C-20DP-0.4V(51)
+D BtoB Connector, Hirose, Plug/Header
+K BtoB Connector, Hirose, Plug/Header
+$ENDCMP
+#
+$CMP DF40C-20DS-0.4V(51)
+D BtoB Connector, Hirose, 1.5mm Height, Receptacle
+K BtoB Connector, Hirose, 1.5mm Height, Receptacle
+$ENDCMP
+#
+$CMP DF40HC(2.5)-20DS-0.4V(51)
+D BtoB Connector, Hirose, 2.5mm Height, Receptacle
+K BtoB Connector, Hirose, 2.5mm Height, Receptacle
+$ENDCMP
+#
+$CMP SLG46125_temp
+D GreenPAK with two power switch
+K GreenPAK with two power switch, SILEGO
+$ENDCMP
+#
+$CMP TEST_1P
+D point
+K point tp
+$ENDCMP
+#
+$CMP UE27-AC54-100
+D USB Type-A Receptacle
+K USB Type-A Receptacle
+$ENDCMP
+#
+#End Doc Library

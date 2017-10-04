@@ -1,0 +1,72 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1.5uH
+#
+DEF 1.5uH L 0 10 N N 1 F N
+F0 "L" 0 300 50 H V L CNN
+F1 "1.5uH" -100 100 50 H V L CNN
+F2 "0_MyFootprint:DFC201612C" 0 -300 50 H I C CNN
+F3 "http://psearch.jp.murata.com/inductor/product/1286AS-H-1R5M%23.pdf" 50 -200 50 H I C CNN
+F4 "1286AS-H-1R5M" 50 200 59 H V C CNN "Parts Name"
+F5 "2" 0 -100 60 H I C CNN "Pin"
+F6 "1.2" 0 -400 60 H I C CNN "Height (max)"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# L
+#
+DEF L L 0 10 N N 1 F N
+F0 "L" -50 250 50 H V L CNN
+F1 "L" -50 50 50 H V L CNN
+F2 "" 0 0 50 V V C CNN
+F3 "" 0 0 50 V V C CNN
+F4 "?" 0 150 59 H V C CNN "部品名"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# L_Small
+#
+DEF L_Small L 0 10 N N 1 F N
+F0 "L" -50 250 50 H V L CNN
+F1 "L_Small" -100 50 50 H V L CNN
+F2 "" 0 0 50 V V C CNN
+F3 "" 0 0 50 V V C CNN
+F4 "?" 0 150 59 H V C CNN "部品名"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

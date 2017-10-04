@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSTCE16M0V53-R0
+D CERALOCK, Ceramic Resonators, 16MHz
+K CERALOCK, Ceramic Resonators, 16MHz
+$ENDCMP
+#
+$CMP CSTCE8M00G55-R0
+D CERALOCK, Ceramic Resonators, 8MHz
+K CERALOCK, Ceramic Resonators, 8MHz
+$ENDCMP
+#
+#End Doc Library

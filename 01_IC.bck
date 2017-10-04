@@ -1,0 +1,124 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA328P-AU
+D ATMEGA328P-AU, this symbol for Arduino
+K ATMEGA328P, AVR, Arduino
+$ENDCMP
+#
+$CMP BGM113A256V2
+D Silicon Labs Bluetooth module BGM113
+K Silicon Labs Bluetooth module BGM113
+$ENDCMP
+#
+$CMP BGM123A256V2
+D Silicon Labs Bluetooth module BGM113
+K Silicon Labs Bluetooth module BGM113
+$ENDCMP
+#
+$CMP BQ24232RGT
+D BQ24232, 1-cell Charger
+K BQ24232, Charger
+$ENDCMP
+#
+$CMP FSA2257MUX
+D Dual Analog switch, Fairchild
+K Dual Analog switch, Fairchild
+$ENDCMP
+#
+$CMP INA300AIDSQ
+D INA300, Overcurrent-Protection, Current-Sense
+K INA300, Overcurrent-Protection, Current-Sense
+$ENDCMP
+#
+$CMP NL17SZ14DFT2G
+D Single Inverter with Schmitt Trigger
+K Single Inverter with Schmitt Trigger
+F http://www.onsemi.com/pub_link/Collateral/NL17SZ14-D.PDF
+$ENDCMP
+#
+$CMP NL17SZ17DFT2G
+D Single buffer with Schmitt Trigger
+K Single buffer with Schmitt Trigger
+$ENDCMP
+#
+$CMP NL27WZ126USG
+D Double Tri-state Buffer
+K Double Tri-state Buffer
+$ENDCMP
+#
+$CMP NL37WZ14USG
+D Triple Schmitt Trigger Inverter
+K Triple Schmitt Trigger Inverter
+$ENDCMP
+#
+$CMP SLG46125_temp
+D GreenPAK with two power switch
+K GreenPAK with two power switch, SILEGO
+$ENDCMP
+#
+$CMP SLG4R41962V
+D GreenPAK, SLG46120
+K GreenPAK, SLG46120
+$ENDCMP
+#
+$CMP SLG4T41943V
+D GreenPAK, SLG46110
+K GreenPAK, SLG46110
+$ENDCMP
+#
+$CMP SLG59M1466V
+D SILEGO, Load SW with discharge, 40mohm, 1A
+K SILEGO, Load SW with discharge, 40mohm, 1A
+$ENDCMP
+#
+$CMP SLG59M1495V
+D SILEGO, Load SW with discharge, 80mohm, 1A
+K SILEGO, Load SW with discharge, 80mohm, 1A
+$ENDCMP
+#
+$CMP TC7SH17FU
+D Single buffer with Schmitt Trigger
+K Single buffer with Schmitt Trigger
+$ENDCMP
+#
+$CMP TC7W14FU
+D Triple Schmitt Trigger Inverter
+K Triple Schmitt Trigger Inverter
+$ENDCMP
+#
+$CMP TCA4311ADGKR
+D Hot Swappable 2-Wire Bus Buffers
+K Hot Swappable 2-Wire Bus Buffers
+$ENDCMP
+#
+$CMP TPS22929DDBV
+D Load Switch With Controlled Turn-on, Discharge, Softstart
+K Load Switch With Controlled Turn-on, Discharge, Softstart
+$ENDCMP
+#
+$CMP TPS2552DDBV
+D Load Switch with Current Limit
+K Load Switch with Current Limit
+$ENDCMP
+#
+$CMP TPS3701DDC
+D Window Comparator with Internal Reference
+K Window Comparator with Internal Reference
+$ENDCMP
+#
+$CMP TPS61099
+D 5V/0.8A Boost
+K Boost, DCDC, 5V
+$ENDCMP
+#
+$CMP TPS63051RMW
+D 3.3V Buck-Boost, VQFN
+K 3.3V, Buck-Boost, DCDC
+$ENDCMP
+#
+$CMP TSA3A24157
+D Dual Analog switch, TI
+K Dual Analog switch, TI
+$ENDCMP
+#
+#End Doc Library

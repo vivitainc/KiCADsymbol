@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.5uH
+D Inductor Murata 1286AS-H-1R5M
+K Murata 1286AS-H-1R5M
+$ENDCMP
+#
+$CMP L
+D Inductor
+$ENDCMP
+#
+$CMP L_Small
+D Inductor
+$ENDCMP
+#
+#End Doc Library

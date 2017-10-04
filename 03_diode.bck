@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DA2U10100L
+D Switching Diode, 1x0.6mm
+K Switching Diode, 1x0.6mm
+$ENDCMP
+#
+$CMP DA3S103E0L
+D Switching Diode, Dual
+K Switching Diode, Dual
+$ENDCMP
+#
+$CMP DF2S6.2FSL3M
+D TVS Diode
+K TVS Diode
+$ENDCMP
+#
+$CMP SML-522MU8W
+D Dual LED, 1513, YellowGreen+Red
+K Dual LED, 1513, YellowGreen+Red
+$ENDCMP
+#
+$CMP SML-D12D1WT86
+D LED, 1608, orange
+K LED, orange
+$ENDCMP
+#
+$CMP SML-D12M1WT86
+D LED, 1608, green
+K LED, green
+$ENDCMP
+#
+$CMP SML-D12U1WT86
+D LED, 1608, red
+K LED, red
+$ENDCMP
+#
+$CMP SML-D12Y1WT86
+D LED, 1608, yellow
+K LED, yellow
+$ENDCMP
+#
+$CMP SMLP34RGB2W3
+D LED, 1010, RBG
+K LED, 1010, RBG
+$ENDCMP
+#
+#End Doc Library

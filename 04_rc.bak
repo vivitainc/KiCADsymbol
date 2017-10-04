@@ -1,0 +1,286 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# C_0603
+#
+DEF C_0603 C 0 10 N N 1 F N
+F0 "C" 100 150 50 H V L CNN
+F1 "C_0603" 100 50 50 H V L CNN
+F2 "0_MyFootprint:C_0603" -90 -30 50 H I C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "0603" 200 -250 50 H V C CNN "サイズ"
+F5 "? V" 200 -50 50 H V C CNN "定格電圧"
+F6 "?" 150 -150 50 H V C CNN "温度特性"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1005
+#
+DEF C_1005 C 0 10 N N 1 F N
+F0 "C" 100 150 50 H V L CNN
+F1 "C_1005" 100 50 50 H V L CNN
+F2 "0_MyFootprint:C_1005" 100 -550 50 H I C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "1005" 100 -250 50 H I L CNN "Size"
+F5 "? V" 100 -50 50 H V L CNN "Rated"
+F6 "?" 100 -150 50 H V L CNN "Characteristics"
+F7 "? %" 100 -400 50 H I L CNN "Tolerance"
+F8 "2" 20 -590 50 H I C CNN "Pin"
+F9 "0.55" 0 -700 60 H I C CNN "Height (max)"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1005_yoko
+#
+DEF C_1005_yoko C 0 10 N N 1 F N
+F0 "C" 0 500 50 H V C CNN
+F1 "C_1005_yoko" 0 400 50 H V C CNN
+F2 "0_MyFootprint:C_1005" 0 -250 50 H I C CNN
+F3 "" -70 10 50 V V C CNN
+F4 "1005" 0 100 50 H I C CNN "Size"
+F5 "? V" 0 300 50 H V C CNN "Rated"
+F6 "?" 0 200 50 H V C CNN "Characteristics"
+F7 "? %" 150 -150 50 H I C CNN "Tolerance"
+F8 "2" 0 -350 50 H I C CNN "Pin"
+F9 "0.55" 0 -450 60 H I C CNN "Height (max)"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 12 -20 -60 -20 60 N
+P 2 0 1 13 20 -60 20 60 N
+X ~ 1 -100 0 75 R 40 40 1 1 P
+X ~ 2 100 0 80 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1608
+#
+DEF C_1608 C 0 10 N N 1 F N
+F0 "C" 100 150 50 H V L CNN
+F1 "C_1608" 100 50 50 H V L CNN
+F2 "0_MyFootprint:C_1608" 0 -350 50 H I C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "1608" 100 -250 50 H V L CNN "Size"
+F5 "? V" 100 -50 50 H V L CNN "Rated"
+F6 "?" 100 -150 50 H V L CNN "Characteristics"
+F7 "? %" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "0.95" 200 -650 60 H I C CNN "Height (max)"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_2012
+#
+DEF C_2012 C 0 10 N N 1 F N
+F0 "C" 100 150 50 H V L CNN
+F1 "C_2012" 100 50 50 H V L CNN
+F2 "04_footprint_rc:C_2012" -90 -30 50 H I C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "2012" 200 -250 50 H V C CNN "サイズ"
+F5 "? V" 200 -50 50 H V C CNN "定格電圧"
+F6 "?" 150 -150 50 H V C CNN "温度特性"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RL0510S-R22-F
+#
+DEF RL0510S-R22-F R 0 10 N N 1 F N
+F0 "R" -50 200 50 H V L CNN
+F1 "RL0510S-R22-F" -250 100 50 H V L CNN
+F2 "0_MyFootprint:Susumu_RL0510_series" -50 -350 50 H I C CNN
+F3 "" -20 30 50 V V C CNN
+F4 "1005" 50 -250 50 H I C CNN "Size"
+F5 "1 %" 50 -150 60 H I C CNN "Tolerance"
+F6 "2" 50 -450 60 H I C CNN "Pin"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -70 -30 70 30 0 1 8 N
+X ~ 1 -100 0 30 R 40 40 1 1 P
+X ~ 2 100 0 30 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603
+#
+DEF R_0603 R 0 10 N N 1 F N
+F0 "R" 50 150 50 H V L CNN
+F1 "R_0603" 50 50 50 H V L CNN
+F2 "04_footprint_rc:R_0603" -50 -250 50 H I C CNN
+F3 "" 30 20 50 H V C CNN
+F4 "0603" 150 -150 50 H I C CNN "サイズ"
+F5 "? %" 150 -50 60 H V C CNN "精度"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1005
+#
+DEF R_1005 R 0 10 N N 1 F N
+F0 "R" 100 50 50 H V L CNN
+F1 "R_1005" 100 -50 50 H V L CNN
+F2 "0_MyFootprint:R_1005" 100 -350 50 H I C CNN
+F3 "" 30 20 50 H V C CNN
+F4 "1005" 100 -250 50 H I L CNN "Size"
+F5 "5%" 100 -150 50 H I L CNN "Tolerance"
+F6 "? W" 0 -450 50 H I L CNN "Rated"
+F7 "2" 0 -550 50 H I C CNN "Pin"
+F8 "0.4" 0 -650 60 H I C CNN "Height (max)"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1005_yoko
+#
+DEF R_1005_yoko R 0 10 N N 1 F N
+F0 "R" 0 200 50 H V C CNN
+F1 "R_1005_yoko" 0 100 50 H V C CNN
+F2 "0_MyFootprint:R_1005" 100 -350 50 H I C CNN
+F3 "" -20 30 50 V V C CNN
+F4 "1005" 100 -250 50 H I C CNN "Size"
+F5 "5%" 100 -150 50 H I C CNN "Tolerance"
+F6 "? W" 0 -450 50 H I L CNN "Rated"
+F7 "2" 0 -550 50 H I C CNN "Pin"
+F8 "0.4" 0 -650 60 H I C CNN "Height (max)"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -70 -30 70 30 0 1 8 N
+X ~ 1 -100 0 30 R 40 40 1 1 P
+X ~ 2 100 0 30 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1608
+#
+DEF R_1608 R 0 10 N N 1 F N
+F0 "R" 50 150 50 H V L CNN
+F1 "R_1608" 50 50 50 H V L CNN
+F2 "04_footprint_rc:R_1608" -50 -250 50 H I C CNN
+F3 "" 30 20 50 H V C CNN
+F4 "1608" 150 -150 50 H I C CNN "サイズ"
+F5 "? %" 150 -50 60 H V C CNN "精度"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2012
+#
+DEF R_2012 R 0 10 N N 1 F N
+F0 "R" 50 150 50 H V L CNN
+F1 "R_2012" 50 50 50 H V L CNN
+F2 "04_footprint_rc:R_2012" -50 -250 50 H I C CNN
+F3 "" 30 20 50 H V C CNN
+F4 "2012" 150 -150 50 H I C CNN "サイズ"
+F5 "? %" 150 -50 60 H V C CNN "精度"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TF16SN0.63
+#
+DEF TF16SN0.63 F 0 10 N N 1 F N
+F0 "F" 0 200 50 H V C CNN
+F1 "TF16SN0.63" 0 100 50 H V C CNN
+F2 "01_footprint_IC:TF16SN" -50 -150 50 H I C CNN
+F3 "https://www.koaglobal.com/ja-JP/product/tf16sn.aspx" 0 -300 50 H I C CNN
+F4 "2" 0 -400 60 H I C CNN "Pin"
+ALIAS TF16SN1.00
+$FPLIST
+ CP*
+ SM*
+$ENDFPLIST
+DRAW
+S -50 20 50 -20 0 1 0 N
+P 2 0 1 0 -50 0 50 0 N
+X ~ 1 -100 0 50 R 40 40 1 1 P
+X ~ 2 100 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

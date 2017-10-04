@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002W
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP HN1B04FE-Y
+D NPN, PNP, double, Transistor
+K NPN, PNP, double, Transistor
+$ENDCMP
+#
+$CMP NTJS4151P
+D (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
+K (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP NTZS3151P
+D 950mA, Single P−Channel
+K 950mA, Single P−Channel
+$ENDCMP
+#
+$CMP SSM3J15FV
+D 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
+K 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
+F http://www.tyro-teq.com/ds/pdf/s/0030/SSM3J15FV.pdf
+$ENDCMP
+#
+$CMP SSM3K15AMFV
+D N-channel MOSFET
+K N-channel MOSFET
+$ENDCMP
+#
+$CMP SSM6N15AFE
+D 2 x N-channel MOSFET
+K 2 x N-channel MOSFET, Dual
+$ENDCMP
+#
+#End Doc Library

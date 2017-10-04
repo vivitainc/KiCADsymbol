@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KMT071NGJLHS
+D tact switch, C&K, 2.26N, 3.7x3.7
+K tact switch, C&K, 2.26N, 3.7x3.7
+$ENDCMP
+#
+$CMP PTS540JK035SMTRLFS
+D tact switch, C&K, 2.26N, 3.7x3.7
+K tact switch, C&K, 2.26N, 3.7x3.7
+$ENDCMP
+#
+$CMP SKQGAKE010
+D tact switch, alps, 3.43N
+K tact switch, alps,  3.43N
+$ENDCMP
+#
+$CMP SKRMABE010
+D tact switch, alps, 2.55N, 4.5x4.5
+K tact switch, alps,  2.55N, 4.5x4.5
+$ENDCMP
+#
+$CMP SW_PUSH_SMALL_H
+D Button
+K switch
+$ENDCMP
+#
+$CMP TVGP01-G73BB
+D tact switch, Akiduki
+K tact switch, Akiduki
+$ENDCMP
+#
+#End Doc Library
