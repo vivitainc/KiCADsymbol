@@ -30,6 +30,10 @@ D INA300, Overcurrent-Protection, Current-Sense
 K INA300, Overcurrent-Protection, Current-Sense
 $ENDCMP
 #
+$CMP MP3423
+D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
+$ENDCMP
+#
 $CMP NL17SZ14DFT2G
 D Single Inverter with Schmitt Trigger
 K Single Inverter with Schmitt Trigger
@@ -104,6 +108,11 @@ $ENDCMP
 $CMP TPS3701DDC
 D Window Comparator with Internal Reference
 K Window Comparator with Internal Reference
+$ENDCMP
+#
+$CMP TPS56428RHL
+D DCDC Buck, Vin 4.5 to 18V, Vout 0.7 to 7V, Iout 4A
+K DCDC, Buck, TI
 $ENDCMP
 #
 $CMP TPS61099

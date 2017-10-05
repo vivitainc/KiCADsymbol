@@ -30,6 +30,11 @@ D INA300, Overcurrent-Protection, Current-Sense
 K INA300, Overcurrent-Protection, Current-Sense
 $ENDCMP
 #
+$CMP MP3423
+D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
+K DCDC, Boost, MPS
+$ENDCMP
+#
 $CMP NL17SZ14DFT2G
 D Single Inverter with Schmitt Trigger
 K Single Inverter with Schmitt Trigger
