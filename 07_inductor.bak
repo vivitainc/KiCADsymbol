@@ -8,9 +8,81 @@ F0 "L" 0 300 50 H V L CNN
 F1 "1.5uH" -100 100 50 H V L CNN
 F2 "0_MyFootprint:DFC201612C" 0 -300 50 H I C CNN
 F3 "http://psearch.jp.murata.com/inductor/product/1286AS-H-1R5M%23.pdf" 50 -200 50 H I C CNN
-F4 "1286AS-H-1R5M" 50 200 59 H V C CNN "部品名"
+F4 "1286AS-H-1R5M" 50 200 59 H V C CNN "Parts Name"
 F5 "2" 0 -100 60 H I C CNN "Pin"
 F6 "1.2" 0 -400 60 H I C CNN "Height (max)"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1286AS-H-1R5M
+#
+DEF 1286AS-H-1R5M L 0 10 N N 1 F N
+F0 "L" 0 300 50 H V C CNN
+F1 "1286AS-H-1R5M" 0 100 50 H V C CNN
+F2 "0_MyFootprint:DFC201612C" 0 -300 50 H I C CNN
+F3 "http://psearch.jp.murata.com/inductor/product/1286AS-H-1R5M%23.pdf" 50 -200 50 H I C CNN
+F4 "1.5uH" 0 200 59 H V C CNN "Value"
+F5 "2" 0 -100 60 H I C CNN "Pin"
+F6 "1.2" 0 -400 60 H I C CNN "Height (max)"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FDV0530-H-1R0M
+#
+DEF FDV0530-H-1R0M L 0 10 N N 1 F N
+F0 "L" 0 300 50 H V C CNN
+F1 "FDV0530-H-1R0M" 0 100 50 H V C CNN
+F2 "0_MyFootprint:FDV0530" 0 -300 50 H I C CNN
+F3 "http://psearch.jp.murata.com/inductor/product/FDV0530-H-1R0M%23.html" 50 -200 50 H I C CNN
+F4 "1.0uH" 0 200 59 H V C CNN "Value"
+F5 "2" 0 -100 60 H I C CNN "Pin"
+F6 "3" 0 -400 60 H I C CNN "Height (max)"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FDV0530-H-2R2M
+#
+DEF FDV0530-H-2R2M L 0 10 N N 1 F N
+F0 "L" 0 300 50 H V C CNN
+F1 "FDV0530-H-2R2M" 0 100 50 H V C CNN
+F2 "0_MyFootprint:FDV0530" 0 -300 50 H I C CNN
+F3 "http://psearch.jp.murata.com/inductor/product/FDV0530-H-2R2M%23.html" 50 -200 50 H I C CNN
+F4 "2.2uH" 0 200 59 H V C CNN "Value"
+F5 "2" 0 -100 60 H I C CNN "Pin"
+F6 "3" 0 -400 60 H I C CNN "Height (max)"
 $FPLIST
  Choke_*
  *Coil*
