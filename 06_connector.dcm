@@ -10,6 +10,21 @@ D Molex, 1.25mm, Header, Right angle, pico blade, through hole
 K Molex, 1.25mm, Header, Right angle, pico blade, through hole
 $ENDCMP
 #
+$CMP B2B-PH-KL
+D JST, PH Connector, 2pin, Top, 低嵌合
+K JST, PH Connector
+$ENDCMP
+#
+$CMP B3B-PH-KL
+D JST, PH Connector, 3pin, Top, 低嵌合
+K JST, PH Connector
+$ENDCMP
+#
+$CMP B4B-PH-KL
+D JST, PH Connector, 4pin, Top, 低嵌合
+K JST, PH Connector
+$ENDCMP
+#
 $CMP DF40C-20DP-0.4V(51)
 D BtoB Connector, Hirose, Plug/Header
 K BtoB Connector, Hirose, Plug/Header

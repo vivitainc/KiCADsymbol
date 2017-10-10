@@ -32,6 +32,7 @@ $ENDCMP
 #
 $CMP MP3423
 D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
+K DCDC, Boost, MPS
 $ENDCMP
 #
 $CMP NL17SZ14DFT2G

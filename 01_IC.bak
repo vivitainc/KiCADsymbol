@@ -247,7 +247,7 @@ ENDDEF
 DEF MP3423 IC 0 40 Y Y 1 F N
 F0 "IC" 0 650 60 H V C CNN
 F1 "MP3423" 0 550 60 H V C CNN
-F2 "" -100 400 60 H I C CNN
+F2 "0_MyFootprint:MSP3423-QFN14" -100 400 60 H I C CNN
 F3 "cpower.com/DesktopModules/DocumentManage/API/Document/GetDocument?id=3252" 300 1100 60 H I C CNN
 F4 "14" 0 1250 60 H I C CNN "Pin"
 F5 "0.9" 0 1150 60 H I C CNN "Height (max)"
