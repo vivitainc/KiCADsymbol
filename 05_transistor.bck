@@ -12,8 +12,8 @@ K NPN, PNP, double, Transistor
 $ENDCMP
 #
 $CMP NTJS4151P
-D −20 V, −4.2 A, Single P−Channel, SC−88
-K −20 V, −4.2 A, Single P−Channel, SC−88
+D (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
+K (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
 F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
@@ -36,6 +36,11 @@ $ENDCMP
 $CMP SSM6N15AFE
 D 2 x N-channel MOSFET
 K 2 x N-channel MOSFET, Dual
+$ENDCMP
+#
+$CMP TT8J11
+D 3.5A, Dual P−Channel
+K 3.5A, Dual P−Channel
 $ENDCMP
 #
 #End Doc Library

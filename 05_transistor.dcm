@@ -38,4 +38,9 @@ D 2 x N-channel MOSFET
 K 2 x N-channel MOSFET, Dual
 $ENDCMP
 #
+$CMP TT8J11
+D 3.5A, Dual P−Channel
+K 3.5A, Dual P−Channel
+$ENDCMP
+#
 #End Doc Library
