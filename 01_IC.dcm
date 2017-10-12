@@ -116,6 +116,11 @@ D DCDC Buck, Vin 4.5 to 18V, Vout 0.7 to 7V, Iout 4A
 K DCDC, Buck, TI
 $ENDCMP
 #
+$CMP TPS61089
+D TI Boost, Vin 2.7 - 12V, Vout 4.5 - 12.6V, 7A 
+K TI Boost, Vin 2.7 - 12V, Vout 4.5 - 12.6V, 7A 
+$ENDCMP
+#
 $CMP TPS61099
 D 5V/0.8A Boost
 K Boost, DCDC, 5V
