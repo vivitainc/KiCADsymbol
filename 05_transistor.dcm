@@ -22,6 +22,16 @@ D 950mA, Single P−Channel
 K 950mA, Single P−Channel
 $ENDCMP
 #
+$CMP QH8JA1
+D 5A, Dual P−Channel
+K 5A, Dual P−Channel
+$ENDCMP
+#
+$CMP SCH1345
+D −20 V, −4.5 A, Single P−Channel
+K −20 V, −4.5 A, Single P−Channel
+$ENDCMP
+#
 $CMP SSM3J15FV
 D 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
 K 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
