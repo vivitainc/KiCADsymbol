@@ -25,6 +25,16 @@ D Unpolarized capacitor, 0603
 K cap, 0603
 $ENDCMP
 #
+$CMP C_3225
+D Unpolarized capacitor, 3225
+K cap, 3225
+$ENDCMP
+#
+$CMP C_3225_yoko
+D Unpolarized capacitor, 3225
+K cap, 3225
+$ENDCMP
+#
 $CMP RL0510S-R22-F
 D Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%
 K Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%
