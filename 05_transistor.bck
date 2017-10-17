@@ -11,6 +11,11 @@ D NPN, PNP, double, Transistor
 K NPN, PNP, double, Transistor
 $ENDCMP
 #
+$CMP MOCD207R2M
+D Toshiba, Photo Transistor
+K Toshiba, Photo Transistor
+$ENDCMP
+#
 $CMP NTJS4151P
 D (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
 K (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
