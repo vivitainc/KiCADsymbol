@@ -81,6 +81,11 @@ D SILEGO, Load SW with discharge, 80mohm, 1A
 K SILEGO, Load SW with discharge, 80mohm, 1A
 $ENDCMP
 #
+$CMP SLG59M1600V
+D SILEGO, GreenFET, Load SW, 2.5V to 5.5V, 9A
+K SILEGO, GreenFET, Load SW, 2.5V to 5.5V, 9A
+$ENDCMP
+#
 $CMP TC7SH17FU
 D Single buffer with Schmitt Trigger
 K Single buffer with Schmitt Trigger
