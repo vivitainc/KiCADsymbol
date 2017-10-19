@@ -37,6 +37,11 @@ D −20 V, −4.5 A, Single P−Channel
 K −20 V, −4.5 A, Single P−Channel
 $ENDCMP
 #
+$CMP SI7858BDP
+D Vishay, N-channel MOSFET, Id 40A,
+K Vishay, N-channel MOSFET, Id 40A,
+$ENDCMP
+#
 $CMP SSM3J15FV
 D 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
 K 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal

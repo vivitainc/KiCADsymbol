@@ -70,4 +70,9 @@ D KOA, Chip Fuse, 1608, rated 0.63A
 K KOA, Chip Fuse, 1608, rated 0.63A
 $ENDCMP
 #
+$CMP TLR2HWDTE1L00F50
+D KOA Shunt Resistor, 5025, 1mohm, 2W, 1%
+K KOA Shunt Resistor, 5025, 1mohm, 2W, 1%
+$ENDCMP
+#
 #End Doc Library

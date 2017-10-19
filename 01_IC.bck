@@ -20,6 +20,11 @@ D BQ24232, 1-cell Charger
 K BQ24232, Charger
 $ENDCMP
 #
+$CMP BQ24295
+D TI, Battery Charger for 1cell, Ichg 3A
+K TI, Battery Charger for 1cell, Ichg 3A
+$ENDCMP
+#
 $CMP FSA2257MUX
 D Dual Analog switch, Fairchild
 K Dual Analog switch, Fairchild
@@ -56,6 +61,16 @@ D Triple Schmitt Trigger Inverter
 K Triple Schmitt Trigger Inverter
 $ENDCMP
 #
+$CMP R5486K113CG
+D Richo, Battery Protection for 1cell with Sense Resistor
+K Richo, Battery Protection for 1cell with Sense Resistor
+$ENDCMP
+#
+$CMP R5486K534CM
+D Richo, Battery Protection for 1cell with Sense Resistor
+K Richo, Battery Protection for 1cell with Sense Resistor
+$ENDCMP
+#
 $CMP SLG46125_temp
 D GreenPAK with two power switch
 K GreenPAK with two power switch, SILEGO
@@ -79,6 +94,11 @@ $ENDCMP
 $CMP SLG59M1495V
 D SILEGO, Load SW with discharge, 80mohm, 1A
 K SILEGO, Load SW with discharge, 80mohm, 1A
+$ENDCMP
+#
+$CMP SLG59M1600V
+D SILEGO, GreenFET, Load SW, 2.5V to 5.5V, 9A
+K SILEGO, GreenFET, Load SW, 2.5V to 5.5V, 9A
 $ENDCMP
 #
 $CMP TC7SH17FU

@@ -168,14 +168,14 @@ ENDDEF
 DEF C_3225_yoko C 0 10 N N 1 F N
 F0 "C" 0 500 50 H V C CNN
 F1 "C_3225_yoko" 0 400 50 H V C CNN
-F2 "" 0 -250 50 H I C CNN
+F2 "0_MyFootprint:C_3225" 0 -250 50 H I C CNN
 F3 "" -70 10 50 V V C CNN
 F4 "3225" 0 100 50 H I C CNN "Size"
 F5 "? V" 0 300 50 H V C CNN "Rated"
 F6 "?" 0 200 50 H V C CNN "Characteristics"
 F7 "? %" 150 -150 50 H I C CNN "Tolerance"
 F8 "2" 0 -350 50 H I C CNN "Pin"
-F9 "2.5" 0 -450 60 H I C CNN "Height (max)"
+F9 "2.7" 0 -450 60 H I C CNN "Height (max)"
 $FPLIST
  C?
  C_????_*
@@ -337,6 +337,28 @@ S -50 20 50 -20 0 1 0 N
 P 2 0 1 0 -50 0 50 0 N
 X ~ 1 -100 0 50 R 40 40 1 1 P
 X ~ 2 100 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TLR2HWDTE1L00F50
+#
+DEF TLR2HWDTE1L00F50 R 0 10 N N 1 F N
+F0 "R" -50 200 50 H V L CNN
+F1 "TLR2HWDTE1L00F50" -250 100 50 H V L CNN
+F2 "" -50 -350 50 H I C CNN
+F3 "" 1350 -950 50 V V C CNN
+F4 "5025" 50 -250 50 H I C CNN "Size"
+F5 "1 %" 50 -150 60 H I C CNN "Tolerance"
+F6 "2" 50 -450 60 H I C CNN "Pin"
+F7 "0.85" 0 -550 60 H I C CNN "Height (max)"
+$FPLIST
+ Resistor_*
+ R_*
+$ENDFPLIST
+DRAW
+S -70 -30 70 30 0 1 8 N
+X ~ 1 -100 0 30 R 40 40 1 1 P
+X ~ 2 100 0 30 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
