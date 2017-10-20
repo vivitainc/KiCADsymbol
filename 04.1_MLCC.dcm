@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1005
+D 1005
+K 1005
+$ENDCMP
+#
+$CMP C_1608
+D Unpolarized capacitor, 1608
+K cap, 1608
+$ENDCMP
+#
+$CMP GRM187R60J226ME15
+D Murata, 1608, 22uF, 6.3V, X5R
+K Murata, 1608, 22uF, 6.3V, X5R
+$ENDCMP
+#
+$CMP GRM188R60J106ME84D
+D Murata, 1608, 10uF, 6.3V, X5R
+K Murata, 1608, 10uF, 6.3V, X5R
+$ENDCMP
+#
+$CMP GRM32ER61C226ME20
+D Murata, 3225, 22uF, 16V, X5R
+K Murata, 3225, 22uF, 16V, X5R
+$ENDCMP
+#
+#End Doc Library

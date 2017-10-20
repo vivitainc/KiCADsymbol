@@ -5,6 +5,11 @@ D Inductor Murata 1286AS-H-1R5M
 K Murata 1286AS-H-1R5M
 $ENDCMP
 #
+$CMP DFE252012F-2R2M
+D Murata, DFE252012F-2R2M, 2.2uH, Itemp 2.3A, Isat 3.3A, Metal 
+K Murata DFE252012F-2R2M Metal
+$ENDCMP
+#
 $CMP FDV0530-H-1R0M
 D Inductor Murata, FDV0530-H-1R0M, 1uH, Metal
 K Murata FDV0530-H-1R0M

@@ -1,0 +1,148 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1005
+#
+DEF ~1005 C 0 10 N N 1 F N
+F0 "C" 200 150 50 H V C CNN
+F1 "1005" -250 -1000 50 H I L CNN
+F2 "0_MyFootprint:C_1005" 100 -850 50 H I C CNN
+F3 "" 0 -400 50 H I C CNN
+F4 "1005" 200 -150 50 H V C CNN "Size"
+F5 "?" 200 -50 50 H V C CNN "Rated"
+F6 "?" 100 -750 50 H I L CNN "Characteristics"
+F7 "?" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "?" 200 -650 60 H I C CNN "Height (max)"
+F10 "?uF" 200 50 60 H V C CNN "Value"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1608
+#
+DEF C_1608 C 0 10 N N 1 F N
+F0 "C" 100 150 50 H V L CNN
+F1 "C_1608" 100 50 50 H V L CNN
+F2 "0_MyFootprint:C_1608" 0 -350 50 H I C CNN
+F3 "" 10 70 50 H V C CNN
+F4 "1608" 100 -250 50 H V L CNN "Size"
+F5 "? V" 100 -50 50 H V L CNN "Rated"
+F6 "?" 100 -150 50 H V L CNN "Characteristics"
+F7 "? %" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "0.95" 200 -650 60 H I C CNN "Height (max)"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GRM187R60J226ME15
+#
+DEF ~GRM187R60J226ME15 C 0 10 N N 1 F N
+F0 "C" 200 150 50 H V C CNN
+F1 "GRM187R60J226ME15" -250 -1000 50 H I L CNN
+F2 "0_MyFootprint:C_1608" 100 -850 50 H I C CNN
+F3 "http://psearch.jp.murata.com/capacitor/product/GRM187R60J226ME15%23.html" 0 -400 50 H I C CNN
+F4 "1608" 200 -150 50 H V C CNN "Size"
+F5 "6.3V" 200 -50 50 H V C CNN "Rated"
+F6 "X5R" 100 -750 50 H I L CNN "Characteristics"
+F7 "15%" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "0.8" 200 -650 60 H I C CNN "Height (max)"
+F10 "22uF" 200 50 60 H V C CNN "Value"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GRM188R60J106ME84D
+#
+DEF ~GRM188R60J106ME84D C 0 10 N N 1 F N
+F0 "C" 200 150 50 H V C CNN
+F1 "GRM188R60J106ME84D" -250 -1000 50 H I L CNN
+F2 "0_MyFootprint:C_1608" 100 -850 50 H I C CNN
+F3 "http://psearch.jp.murata.com/capacitor/product/GRM188R60J106ME84%23.html" 650 -350 50 H I C CNN
+F4 "1608" 200 -150 50 H V C CNN "Size"
+F5 "6.3V" 200 -50 50 H V C CNN "Rated"
+F6 "X5R" 100 -750 50 H I L CNN "Characteristics"
+F7 "20%" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "0.95" 200 -650 60 H I C CNN "Height (max)"
+F10 "10uF" 200 50 60 H V C CNN "Value"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GRM32ER61C226ME20
+#
+DEF ~GRM32ER61C226ME20 C 0 10 N N 1 F N
+F0 "C" 200 150 50 H V C CNN
+F1 "GRM32ER61C226ME20" -250 -1000 50 H I L CNN
+F2 "0_MyFootprint:C_3225" 100 -850 50 H I C CNN
+F3 "http://psearch.jp.murata.com/capacitor/product/GRM32ER61C226ME20%23.html" 0 -400 50 H I C CNN
+F4 "3225" 200 -150 50 H V C CNN "Size"
+F5 "16V" 200 -50 50 H V C CNN "Rated"
+F6 "X5R" 100 -750 50 H I L CNN "Characteristics"
+F7 "20%" 200 -450 50 H I C CNN "Tolerance"
+F8 "2" 180 -580 50 H I C CNN "Pin"
+F9 "2.7" 200 -650 60 H I C CNN "Height (max)"
+F10 "22uF" 200 50 60 H V C CNN "Value"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 75 D 40 40 1 1 P
+X ~ 2 0 -100 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

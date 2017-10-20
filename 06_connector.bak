@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 1042P CN 0 40 Y N 1 F N
 F0 "CN" -325 175 60 H V C CNN
 F1 "1042P" -350 75 60 H V C CNN
-F2 "" 0 -50 60 H I C CNN
+F2 "0_MyFootprint:1042P" 0 -50 60 H I C CNN
 F3 "http://www.keyelco.com/product-pdf.cfm?p=13957" 100 900 60 H I C CNN
 F4 "2" 100 600 60 H I C CNN "Pin"
 F5 "14.86" 200 700 60 H I C CNN "Height (max)"
