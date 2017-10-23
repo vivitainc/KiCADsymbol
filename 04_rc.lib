@@ -1,6 +1,28 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 0684L9400-01
+#
+DEF 0684L9400-01 F 0 10 N N 1 F N
+F0 "F" 0 300 50 H V C CNN
+F1 "0684L9400-01" 0 200 50 H V C CNN
+F2 "0_MyFootprint:0648L_40Aseries" -50 -150 50 H I C CNN
+F3 "https://belfuse.com/resources/Datasheets/CircuitProtection/ds-CP-0684l-series.pdf" 0 -300 50 H I C CNN
+F4 "2" 0 -400 60 H I C CNN "Pin"
+F5 "40A" 0 100 60 H V C CNN "Rated"
+F6 "4.85" 300 600 60 H I C CNN "Height (max)"
+$FPLIST
+ CP*
+ SM*
+$ENDFPLIST
+DRAW
+S -50 20 50 -20 0 1 0 N
+P 2 0 1 0 -50 0 50 0 N
+X ~ 1 -100 0 50 R 40 40 1 1 P
+X ~ 2 100 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # C_0603
 #
 DEF C_0603 C 0 10 N N 1 F N

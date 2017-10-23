@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0684L9400-01
+D Bel Fuse, Chip Fuse, 12.1 x 4.65 mm, rated 40A
+K Bel Fuse, Chip Fuse, 12.1 x 4.65 mm, rated 40A
+$ENDCMP
+#
 $CMP C_0603
 D Unpolarized capacitor, 0603
 K cap, 0603
