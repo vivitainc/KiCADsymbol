@@ -10,6 +10,7 @@ F2 "0_MyFootprint:0648L_40Aseries" -50 -150 50 H I C CNN
 F3 "https://belfuse.com/resources/Datasheets/CircuitProtection/ds-CP-0684l-series.pdf" 0 -300 50 H I C CNN
 F4 "2" 0 -400 60 H I C CNN "Pin"
 F5 "40A" 0 100 60 H V C CNN "Rated"
+F6 "4.85" 300 600 60 H I C CNN "Height (max)"
 $FPLIST
  CP*
  SM*
@@ -209,6 +210,28 @@ P 2 0 1 12 -20 -60 -20 60 N
 P 2 0 1 13 20 -60 20 60 N
 X ~ 1 -100 0 75 R 40 40 1 1 P
 X ~ 2 100 0 80 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# NXFT15XH103FA2B050
+#
+DEF ~NXFT15XH103FA2B050 TH 0 0 N Y 1 F N
+F0 "TH" 170 0 50 H V C CNN
+F1 "NXFT15XH103FA2B050" 0 -420 50 H I C BNN
+F2 "" 0 0 50 H V C CNN
+F3 "http://www.murata.com/ja-jp/products/thermistor/ntc/nxf" 380 -720 50 H I C CNN
+F4 "10k" 180 -80 60 H V C CNN "Value"
+F5 "2" 0 -470 60 H I C CNN "Pin"
+$FPLIST
+ R?
+ SM0603
+ SM0805
+$ENDFPLIST
+DRAW
+S -40 100 40 -100 0 1 8 N
+P 3 0 1 0 -80 100 -80 60 80 -60 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

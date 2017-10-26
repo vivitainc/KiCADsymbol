@@ -9,7 +9,7 @@ F1 "DA2U10100L" 0 100 50 H V C CNN
 F2 "0_MyFootprint:SOD923" 0 -100 50 H I C CNN
 F3 "http://www.semicon.panasonic.co.jp/ds4/DA2U101_J.pdf" -150 -200 50 H I C CNN
 F4 "2" 0 -300 60 H I C CNN "Pin"
-F5 "0.4" 200 400 60 H V C CNN "Height (max)"
+F5 "0.4" 200 400 60 H I C CNN "Height (max)"
 $FPLIST
  LED-*
  LED_*
@@ -44,6 +44,31 @@ P 4 1 1 0 0 100 100 100 100 -100 0 -100 N
 X A 1 -200 100 100 R 40 40 1 1 P
 X A 2 -200 -100 100 R 40 40 1 1 P
 X K 3 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DB2S31600L
+#
+DEF DB2S31600L D 0 40 Y N 1 F N
+F0 "D" 0 200 50 H V C CNN
+F1 "DB2S31600L" 0 110 50 H V C CNN
+F2 "" 0 -100 50 H I C CNN
+F3 "https://industrial.panasonic.com/content/data/SC/ds/ds4/DB2S31600L_J.pdf" -150 -200 50 H I C CNN
+F4 "2" 0 -300 60 H I C CNN "Pin"
+F5 "0.6" 200 400 60 H I C CNN "Height (max)"
+$FPLIST
+ LED-*
+ LED_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -70 -50 -70 -30 N
+P 2 0 1 0 -50 -50 -70 -50 N
+P 2 0 1 0 -50 50 -50 -50 N
+P 2 0 1 0 -50 50 -30 50 N
+P 2 0 1 0 -30 50 -30 30 N
+P 3 0 1 0 50 50 -50 0 50 -50 F
+X K 1 -150 0 100 R 40 40 1 1 P
+X A 2 150 0 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #

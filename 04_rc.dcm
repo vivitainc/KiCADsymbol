@@ -40,6 +40,11 @@ D Unpolarized capacitor, 3225
 K cap, 3225
 $ENDCMP
 #
+$CMP NXFT15XH103FA2B050
+D Thermistor, NTC, 10k, Murata, Wire lead
+K Thermistor NTC 10k Murata Wire lead
+$ENDCMP
+#
 $CMP RL0510S-R22-F
 D Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%
 K Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%

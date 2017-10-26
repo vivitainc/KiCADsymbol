@@ -10,6 +10,11 @@ D Switching Diode, Dual
 K Switching Diode, Dual
 $ENDCMP
 #
+$CMP DB2S31600L
+D Schottky barrier diode, 1x0.6mm
+K Schottky barrier diode, 1x0.6mm
+$ENDCMP
+#
 $CMP DF2S6.2FSL3M
 D TVS Diode
 K TVS Diode

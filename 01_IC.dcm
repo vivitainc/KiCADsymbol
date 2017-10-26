@@ -40,6 +40,11 @@ D Onsemi, Fuel Gauge for 1cell
 K Onsemi, Fuel Gauge for 1cell
 $ENDCMP
 #
+$CMP LMS33460MG_NOPB
+D Reset IC, 3.0V, TI
+K Reset IC, 3.0V, TI
+$ENDCMP
+#
 $CMP MP3423
 D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
 K DCDC, Boost, MPS
