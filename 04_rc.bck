@@ -41,8 +41,8 @@ K cap, 3225
 $ENDCMP
 #
 $CMP NXFT15XH103FA2B050
-D Resistance
-K R DEV
+D Thermistor, NTC, 10k, Murata, Wire lead
+K Thermistor NTC 10k Murata Wire lead
 $ENDCMP
 #
 $CMP RL0510S-R22-F

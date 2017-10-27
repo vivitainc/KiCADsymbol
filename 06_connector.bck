@@ -30,6 +30,11 @@ D JST, PH Connector, 4pin, Top, 低嵌合
 K JST, PH Connector
 $ENDCMP
 #
+$CMP B8B-PHDSS
+D PHD, 2mm pitch, Dual, 8pin
+K PHD, 2mm pitch, Dual, 8pin
+$ENDCMP
+#
 $CMP DF40C-20DP-0.4V(51)
 D BtoB Connector, Hirose, Plug/Header
 K BtoB Connector, Hirose, Plug/Header

@@ -218,7 +218,7 @@ ENDDEF
 DEF ~NXFT15XH103FA2B050 TH 0 0 N Y 1 F N
 F0 "TH" 170 0 50 H V C CNN
 F1 "NXFT15XH103FA2B050" 0 -420 50 H I C BNN
-F2 "" 0 0 50 H V C CNN
+F2 "0_MyFootprint:NXFseries(NTC)" -80 -550 50 H I C CNN
 F3 "http://www.murata.com/ja-jp/products/thermistor/ntc/nxf" 380 -720 50 H I C CNN
 F4 "10k" 180 -80 60 H V C CNN "Value"
 F5 "2" 0 -470 60 H I C CNN "Pin"

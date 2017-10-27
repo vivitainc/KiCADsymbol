@@ -25,6 +25,11 @@ D Dual LED, 1513, YellowGreen+Red
 K Dual LED, 1513, YellowGreen+Red
 $ENDCMP
 #
+$CMP SML-A12U8TT86
+D LED, 1608, red, Side view
+K LED, 1608, red, Side view
+$ENDCMP
+#
 $CMP SML-D12D1WT86
 D LED, 1608, orange
 K LED, orange
