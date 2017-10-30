@@ -141,4 +141,28 @@ X ~ 2 100 0 20 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# SPM5030T-1R0M
+#
+DEF SPM5030T-1R0M L 0 10 N N 1 F N
+F0 "L" 0 300 50 H V C CNN
+F1 "SPM5030T-1R0M" 0 100 50 H V C CNN
+F2 "0_MyFootprint:SPM5030" 0 -300 50 H I C CNN
+F3 "https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_spm5030_en.pdf" 50 -200 50 H I C CNN
+F4 "1.0uH" 0 200 59 H V C CNN "Value"
+F5 "2" 0 -100 60 H I C CNN "Pin"
+F6 "3" 0 -400 60 H I C CNN "Height (max)"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A -60 0 20 1 1799 0 1 0 N -40 0 -80 0
+A -20 0 20 1 1799 0 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 0 1 0 N 40 0 0 0
+A 60 0 20 1 1799 0 1 0 N 80 0 40 0
+X ~ 1 -100 0 20 R 40 40 1 1 P
+X ~ 2 100 0 20 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

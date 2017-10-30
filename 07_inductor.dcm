@@ -28,4 +28,9 @@ $CMP L_Small
 D Inductor
 $ENDCMP
 #
+$CMP SPM5030T-1R0M
+D TDK, 2.2uH, Isat 8.5A, Itemp 10.1A, Metal
+K TDK, 2.2uH, Isat 8.5A, Itemp 10.1A, Metal
+$ENDCMP
+#
 #End Doc Library
