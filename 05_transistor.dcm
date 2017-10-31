@@ -12,8 +12,8 @@ K NPN, PNP, double, Transistor
 $ENDCMP
 #
 $CMP MOCD207R2M
-D Toshiba, Photo Transistor
-K Toshiba, Photo Transistor
+D Onsemi, Dual, Photo Transistor
+K Onsemi, Dual, Photo Transistor
 $ENDCMP
 #
 $CMP NTJS4151P
