@@ -25,6 +25,11 @@ D TI, Battery Charger for 1cell, Ichg 3A
 K TI, Battery Charger for 1cell, Ichg 3A
 $ENDCMP
 #
+$CMP DRV8835
+D TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
+K TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
+$ENDCMP
+#
 $CMP FSA2257MUX
 D Dual Analog switch, Fairchild
 K Dual Analog switch, Fairchild
@@ -38,6 +43,11 @@ $ENDCMP
 $CMP LC709203FQH
 D Onsemi, Fuel Gauge for 1cell
 K Onsemi, Fuel Gauge for 1cell
+$ENDCMP
+#
+$CMP LMS33460MG_NOPB
+D Reset IC, 3.0V, TI
+K Reset IC, 3.0V, TI
 $ENDCMP
 #
 $CMP MP3423

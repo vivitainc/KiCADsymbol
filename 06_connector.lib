@@ -56,6 +56,24 @@ X ~ 2 200 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 640454-2
+#
+DEF 640454-2 CN 0 40 Y Y 1 F N
+F0 "CN" 0 300 60 H V C CNN
+F1 "640454-2" 0 200 60 H V C CNN
+F2 "0_MyFootprint:640454-2" 150 -300 60 H I C CNN
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F640454%7FY3%7Fpdf%7FEnglish%7FENG_CD_640454_Y3.pdf%7F640454-2" -200 900 60 H I C CNN
+F4 "2" -50 -200 60 H I C CNN "Pin"
+DRAW
+C -50 -50 10 0 1 0 F
+C -50 50 10 0 1 0 F
+S -100 100 50 -100 0 1 0 N
+S 50 100 0 -100 0 1 0 F
+X ~ 1 -250 -50 200 R 50 50 1 1 P
+X ~ 2 -250 50 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # B2B-PH-KL
 #
 DEF B2B-PH-KL CN 0 40 Y Y 1 F N
@@ -109,8 +127,8 @@ ENDDEF
 DEF B8B-PHDSS CN 0 40 Y Y 1 F N
 F0 "CN" 0 400 60 H V C CNN
 F1 "B8B-PHDSS" 0 300 60 H V C CNN
-F2 "0_MyFootprint:B8B-PHDSS" -100 300 60 H I C CNN
-F3 "http://www.jst-mfg.com/product/pdf/jpn/PHD.pdf" 0 400 60 H I C CNN
+F2 "0_MyFootprint:B8B-PHDSS" 0 -450 60 H I C CNN
+F3 "http://www.jst-mfg.com/product/pdf/jpn/PHD.pdf" 200 -600 60 H I C CNN
 F4 "8" 100 500 60 H I C CNN "Pin"
 F5 "6.5" 200 600 60 H I C CNN "Height (max)"
 DRAW

@@ -15,23 +15,28 @@ D Molex, 1.25mm, Header, Right angle, pico blade, through hole
 K Molex, 1.25mm, Header, Right angle, pico blade, through hole
 $ENDCMP
 #
+$CMP 640454-2
+D TE, Polarized, 2.54mm pitch, 2pin, 5A/pin, Tin Plated
+K TE, Polarized, 2.54mm pitch, 2pin, 5A/pin, Tin Plated
+$ENDCMP
+#
 $CMP B2B-PH-KL
-D JST, PH Connector, 2pin, Top, 低嵌合
+D JST, PH Connector, 2pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
 $ENDCMP
 #
 $CMP B3B-PH-KL
-D JST, PH Connector, 3pin, Top, 低嵌合
+D JST, PH Connector, 3pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
 $ENDCMP
 #
 $CMP B4B-PH-KL
-D JST, PH Connector, 4pin, Top, 低嵌合
+D JST, PH Connector, 4pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
 $ENDCMP
 #
 $CMP B8B-PHDSS
-D PHD, 2mm pitch, Dual, 8pin
+D PHD, 2mm pitch, Dual, 8pin, 3A/pin
 K PHD, 2mm pitch, Dual, 8pin
 $ENDCMP
 #
