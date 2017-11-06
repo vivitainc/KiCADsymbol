@@ -11,13 +11,13 @@ K Murata DFE252012F-2R2M Metal
 $ENDCMP
 #
 $CMP FDV0530-H-1R0M
-D Inductor Murata, FDV0530-H-1R0M, 1uH, Metal
+D Murata, 1uH, Isat 8.4A, Itemp 7.7A, Metal
 K Murata FDV0530-H-1R0M
 $ENDCMP
 #
 $CMP FDV0530-H-2R2M
-D Inductor Murata, FDV0530-H-2R2M, 2.2uH, Metal
-K Murata FDV0530-H-2R2M
+D Murata, 2.2uH, Isat 5.3A, Itemp 6A, Metal
+K Murata, 2.2uH, Isat 5.3A, Itemp 6A, Metal
 $ENDCMP
 #
 $CMP L
@@ -29,8 +29,8 @@ D Inductor
 $ENDCMP
 #
 $CMP SPM5030T-1R0M
-D TDK, 2.2uH, Isat 8.5A, Itemp 10.1A, Metal
-K TDK, 2.2uH, Isat 8.5A, Itemp 10.1A, Metal
+D TDK, 1uH, Isat 8.5A, Itemp 10.1A, Metal
+K TDK, 1uH, Isat 8.5A, Itemp 10.1A, Metal
 $ENDCMP
 #
 #End Doc Library

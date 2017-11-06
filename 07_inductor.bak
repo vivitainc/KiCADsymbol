@@ -146,7 +146,7 @@ ENDDEF
 DEF SPM5030T-1R0M L 0 10 N N 1 F N
 F0 "L" 0 300 50 H V C CNN
 F1 "SPM5030T-1R0M" 0 100 50 H V C CNN
-F2 "" 0 -300 50 H I C CNN
+F2 "0_MyFootprint:SPM5030" 0 -300 50 H I C CNN
 F3 "https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_spm5030_en.pdf" 50 -200 50 H I C CNN
 F4 "1.0uH" 0 200 59 H V C CNN "Value"
 F5 "2" 0 -100 60 H I C CNN "Pin"
