@@ -10,6 +10,16 @@ D molex, USB Micro-B, SMD
 K molex, USB Micro-B, SMD
 $ENDCMP
 #
+$CMP 503480-1400
+D 0.50mm pitch, , 14 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
+K 0.50mm pitch, , 14 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
+$ENDCMP
+#
+$CMP 52271-1479
+D Molex FFC/FPC Connector, Right-Angle, Surface Mount, ZIF, Bottom Contact, 14pin
+K Molex FFC/FPC Connector, Right-Angle, Surface Mount, ZIF, Bottom Contact, 14pin
+$ENDCMP
+#
 $CMP 53048-0210
 D Molex, 1.25mm, Header, Right angle, pico blade, through hole
 K Molex, 1.25mm, Header, Right angle, pico blade, through hole
