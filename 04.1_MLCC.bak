@@ -6,15 +6,15 @@ EESchema-LIBRARY Version 2.3
 DEF ~1005 C 0 10 N N 1 F N
 F0 "C" 200 150 50 H V C CNN
 F1 "1005" -250 -1000 50 H I L CNN
-F2 "0_MyFootprint:C_3225" 100 -850 50 H I C CNN
-F3 "http://psearch.jp.murata.com/capacitor/product/GRM32ER61C226ME20%23.html" 0 -400 50 H I C CNN
-F4 "3225" 200 -150 50 H V C CNN "Size"
-F5 "16V" 200 -50 50 H V C CNN "Rated"
-F6 "X5R" 100 -750 50 H I L CNN "Characteristics"
-F7 "20%" 200 -450 50 H I C CNN "Tolerance"
+F2 "0_MyFootprint:C_1005" 100 -850 50 H I C CNN
+F3 "" 0 -400 50 H I C CNN
+F4 "1005" 200 -150 50 H V C CNN "Size"
+F5 "?" 200 -50 50 H V C CNN "Rated"
+F6 "?" 100 -750 50 H I L CNN "Characteristics"
+F7 "?" 200 -450 50 H I C CNN "Tolerance"
 F8 "2" 180 -580 50 H I C CNN "Pin"
-F9 "2.7" 200 -650 60 H I C CNN "Height (max)"
-F10 "22uF" 200 50 60 H V C CNN "Value"
+F9 "?" 200 -650 60 H I C CNN "Height (max)"
+F10 "?uF" 200 50 60 H V C CNN "Value"
 $FPLIST
  C?
  C_????_*

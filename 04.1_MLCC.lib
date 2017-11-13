@@ -30,34 +30,6 @@ X ~ 2 0 -100 80 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# C_1608
-#
-DEF C_1608 C 0 10 N N 1 F N
-F0 "C" 100 150 50 H V L CNN
-F1 "C_1608" 100 50 50 H V L CNN
-F2 "0_MyFootprint:C_1608" 0 -350 50 H I C CNN
-F3 "" 10 70 50 H V C CNN
-F4 "1608" 100 -250 50 H V L CNN "Size"
-F5 "? V" 100 -50 50 H V L CNN "Rated"
-F6 "?" 100 -150 50 H V L CNN "Characteristics"
-F7 "? %" 200 -450 50 H I C CNN "Tolerance"
-F8 "2" 180 -580 50 H I C CNN "Pin"
-F9 "0.95" 200 -650 60 H I C CNN "Height (max)"
-$FPLIST
- C?
- C_????_*
- C_????
- SMD*_c
- Capacitor*
-$ENDFPLIST
-DRAW
-P 2 0 1 13 -60 -20 60 -20 N
-P 2 0 1 12 -60 20 60 20 N
-X ~ 1 0 100 75 D 40 40 1 1 P
-X ~ 2 0 -100 80 U 40 40 1 1 P
-ENDDRAW
-ENDDEF
-#
 # GRM187R60J226ME15
 #
 DEF ~GRM187R60J226ME15 C 0 10 N N 1 F N

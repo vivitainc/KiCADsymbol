@@ -5,41 +5,6 @@ D Bel Fuse, Chip Fuse, 12.1 x 4.65 mm, rated 40A
 K Bel Fuse, Chip Fuse, 12.1 x 4.65 mm, rated 40A
 $ENDCMP
 #
-$CMP C_0603
-D Unpolarized capacitor, 0603
-K cap, 0603
-$ENDCMP
-#
-$CMP C_1005
-D Unpolarized capacitor, 1005
-K cap, 1005
-$ENDCMP
-#
-$CMP C_1005_yoko
-D Unpolarized capacitor, 1005
-K cap, 1005
-$ENDCMP
-#
-$CMP C_1608
-D Unpolarized capacitor, 1608
-K cap, 1608
-$ENDCMP
-#
-$CMP C_2012
-D Unpolarized capacitor, 0603
-K cap, 0603
-$ENDCMP
-#
-$CMP C_3225
-D Unpolarized capacitor, 3225
-K cap, 3225
-$ENDCMP
-#
-$CMP C_3225_yoko
-D Unpolarized capacitor, 3225
-K cap, 3225
-$ENDCMP
-#
 $CMP NXFT15XH103FA2B050
 D Thermistor, NTC, 10k, Murata, Wire lead
 K Thermistor NTC 10k Murata Wire lead
@@ -50,29 +15,9 @@ D Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%
 K Susumu Shunt Resistor, 1005, 0.22ohm, 1/6W, 1%
 $ENDCMP
 #
-$CMP R_0603
-D Resistor 0603 mm
-K resistor 0603 mm
-$ENDCMP
-#
 $CMP R_1005
 D Resistor 1005 mm
 K resistor 1005 mm
-$ENDCMP
-#
-$CMP R_1005_yoko
-D Resistor 1005 mm
-K resistor 1005 mm
-$ENDCMP
-#
-$CMP R_1608
-D Resistor 1608 mm
-K resistor 1608 mm
-$ENDCMP
-#
-$CMP R_2012
-D Resistor 2012 mm
-K resistor 2012 mm
 $ENDCMP
 #
 $CMP TF16SN0.63
