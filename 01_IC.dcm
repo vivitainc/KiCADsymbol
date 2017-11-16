@@ -50,6 +50,10 @@ D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
 $ENDCMP
 #
+$CMP MIC803-30D2VC3
+D Micrel, Reset IC, 3.00V, Open Drain
+$ENDCMP
+#
 $CMP MP3423
 D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
 K DCDC, Boost, MPS
