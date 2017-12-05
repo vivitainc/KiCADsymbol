@@ -10,6 +10,11 @@ D tact switch, C&K, 2.26N, 3.7x3.7
 K tact switch, C&K, 2.26N, 3.7x3.7
 $ENDCMP
 #
+$CMP RKJXV1224005
+D ALPS, Analog Joy Stick with switch
+K ALPS, Analog Joy Stick with switch
+$ENDCMP
+#
 $CMP SKQGAKE010
 D tact switch, alps, 3.43N
 K tact switch, alps,  3.43N
