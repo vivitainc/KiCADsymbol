@@ -185,4 +185,9 @@ D Dual Analog switch, TI
 K Dual Analog switch, TI
 $ENDCMP
 #
+$CMP VL53L0CXV0DH/1
+D ToF Range Sensor
+K ToF Range Sensor
+$ENDCMP
+#
 #End Doc Library
