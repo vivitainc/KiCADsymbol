@@ -717,7 +717,7 @@ ENDDEF
 DEF TC7SH17FU IC 0 30 Y N 1 F N
 F0 "IC" 200 250 50 H V C CNN
 F1 "TC7SH17FU" 400 150 50 H V C CNN
-F2 "01_footprint_IC:SOT353" 25 -545 50 H I C CNN
+F2 "0_MyFootprint:SOT353" 25 -545 50 H I C CNN
 F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=30220&prodName=TC7SH17FU" -10 -260 50 H I C CNN
 F4 "5" 0 -350 60 H I C CNN "Pin"
 DRAW
