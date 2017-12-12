@@ -125,6 +125,16 @@ D Load SW, 4A, Reverse Block, Current Limit 6A
 K Load SW, 4A, Reverse Block, Current Limit 6A
 $ENDCMP
 #
+$CMP SN74LV373ARGYR
+D TI, Octal Transparent D-Type Latches With 3-State Outputs
+K TI, Octal Transparent D-Type Latches With 3-State Outputs
+$ENDCMP
+#
+$CMP SN74LVC138ARSVR
+D 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
+K 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
+$ENDCMP
+#
 $CMP TC7SH17FU
 D Single buffer with Schmitt Trigger
 K Single buffer with Schmitt Trigger
