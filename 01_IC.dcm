@@ -25,6 +25,11 @@ D TI, Battery Charger for 1cell, Ichg 3A
 K TI, Battery Charger for 1cell, Ichg 3A
 $ENDCMP
 #
+$CMP CAP1296-1-SL
+D 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
+K 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
+$ENDCMP
+#
 $CMP DRV8835
 D TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
 K TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
@@ -33,6 +38,11 @@ $ENDCMP
 $CMP FSA2257MUX
 D Dual Analog switch, Fairchild
 K Dual Analog switch, Fairchild
+$ENDCMP
+#
+$CMP ICM-20648
+D 6-axis MEMS w/ DMP, InvenSense
+K 6-axis MEMS w/ DMP, InvenSense
 $ENDCMP
 #
 $CMP INA300AIDSQ
