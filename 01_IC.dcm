@@ -30,6 +30,11 @@ D 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
 K 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
 $ENDCMP
 #
+$CMP CAP1298-1-SL
+D 8-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
+K 8-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
+$ENDCMP
+#
 $CMP DRV8835
 D TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
 K TI, Motor Driver, 1 Stepping or 2 DC motor, 1.5A per ch
