@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RK09K1130A6S
+D Akizuki, Slide Volume, B curve, 10k
+K Akizuki, Slide Volume, B curve, 10k
+$ENDCMP
+#
+$CMP SL4515N-B103L15CM
+D Akizuki, Slide Volume, B curve, 10k
+K Akizuki, Slide Volume, B curve, 10k
+$ENDCMP
+#
 $CMP SL4515N-B104L15CM
 D Akizuki, Slide Volume, B curve, 100k
 K Akizuki, Slide Volume, B curve, 100k
