@@ -65,6 +65,11 @@ D Onsemi, Fuel Gauge for 1cell
 K Onsemi, Fuel Gauge for 1cell
 $ENDCMP
 #
+$CMP LC709203FQH-01TWG
+D Onsemi, Fuel Gauge for 1cell
+K Onsemi, Fuel Gauge for 1cell
+$ENDCMP
+#
 $CMP LMS33460MG_NOPB
 D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
