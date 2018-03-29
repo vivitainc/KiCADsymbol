@@ -1,8 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PTA4553-2010CIB103
+D BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
+K BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
+$ENDCMP
+#
 $CMP RK09K1130A6S
-D Akizuki, Slide Volume, B curve, 10k
-K Akizuki, Slide Volume, B curve, 10k
+D ALPS, Volume, 10k, 1B
+K ALPS, Volume, 10k, 1B
 $ENDCMP
 #
 $CMP SL4515N-B103L15CM
