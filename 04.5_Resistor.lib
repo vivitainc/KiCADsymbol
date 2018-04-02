@@ -54,6 +54,7 @@ F2 "0_MyFootprint:PTA4543_PTA4553" -80 -550 50 H I C CNN
 F3 "http://www.bourns.com/docs/Product-Datasheets/PTA.pdf?sfvrsn=471199e2_0" 0 -550 50 H I C CNN
 F4 "10k" -100 0 60 V V C CNN "Value"
 F5 "3" 0 -470 60 H I C CNN "Pin"
+ALIAS PTA4543-2010CPB103
 $FPLIST
  R?
  SM0603

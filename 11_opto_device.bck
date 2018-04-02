@@ -1,6 +1,41 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP RPR-220
+D Rohm, photo riflector
+K Rohm, photo riflector
+$ENDCMP
+#
+$CMP SML-522MU8W
+D Dual LED, 1513, YellowGreen+Red
+K Dual LED, 1513, YellowGreen+Red
+$ENDCMP
+#
+$CMP SML-A12U8TT86
+D LED, 1608, red, Side view
+K LED, 1608, red, Side view
+$ENDCMP
+#
+$CMP SML-D12D1WT86
+D LED, 1608, orange
+K LED, orange
+$ENDCMP
+#
+$CMP SML-D12M1WT86
+D LED, 1608, green
+K LED, green
+$ENDCMP
+#
+$CMP SML-D12U1WT86
+D LED, 1608, red
+K LED, red
+$ENDCMP
+#
+$CMP SML-D12Y1WT86
+D LED, 1608, yellow
+K LED, yellow
+$ENDCMP
+#
+$CMP TLP291(SE
 D Toshiba, Photo Transistor
 K Toshiba, Photo Transistor
 $ENDCMP

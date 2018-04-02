@@ -32,11 +32,6 @@ D 5A, Dual P−Channel
 K 5A, Dual P−Channel
 $ENDCMP
 #
-$CMP RPR-220
-D Rohm, photo riflector
-K Rohm, photo riflector
-$ENDCMP
-#
 $CMP SCH1345
 D −20 V, −4.5 A, Single P−Channel
 K −20 V, −4.5 A, Single P−Channel

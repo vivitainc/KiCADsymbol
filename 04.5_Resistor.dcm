@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PTA4543-2010CPB103
+D BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
+K BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
+$ENDCMP
+#
 $CMP PTA4553-2010CIB103
 D BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
 K BOURNS, Slide Volume, B curve, 10k, Travel 45mm, Lever Length 10mm
