@@ -608,7 +608,7 @@ F0 "IC" 250 300 50 H V C CNN
 F1 "NL27WZ126USG" 400 200 50 H V C CNN
 F2 "01_footprint_IC:SOT765" 150 -500 50 H I C CNN
 F3 "https://www.onsemi.jp/PowerSolutions/document/NL27WZ126-D.PDF" 350 -350 50 H I C CNN
-F4 "8" 50 -650 60 H I C CNN "PIN"
+F4 "8" 50 -650 60 H I C CNN "Pin"
 F5 "0.8" 50 -750 60 H I C CNN "Height (max)"
 DRAW
 P 4 0 0 0 -50 100 -50 -100 150 0 -50 100 N
