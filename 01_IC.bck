@@ -5,6 +5,11 @@ D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
+$CMP BD4827FVE
+D Rohm, Reset IC, 2.7V
+K Rohm, Reset IC, 2.7V
+$ENDCMP
+#
 $CMP BGM113A256V2
 D Silicon Labs Bluetooth module BGM113
 K Silicon Labs Bluetooth module BGM113
@@ -121,6 +126,11 @@ K GreenPAK with two power switch, SILEGO
 $ENDCMP
 #
 $CMP SLG4R41962V
+D GreenPAK, SLG46120
+K GreenPAK, SLG46120
+$ENDCMP
+#
+$CMP SLG4RxxxxxV
 D GreenPAK, SLG46120
 K GreenPAK, SLG46120
 $ENDCMP
