@@ -140,16 +140,16 @@ ENDDEF
 # R_1005
 #
 DEF ~R_1005 R 0 10 N N 1 F N
-F0 "R" 100 50 50 H V L CNN
+F0 "R" 50 50 50 H V L CNN
 F1 "R_1005" -150 -800 50 H I L CNN
 F2 "0_MyFootprint:R_1005" 100 -350 50 H I C CNN
 F3 "" 30 20 50 H V C CNN
-F4 "1005" 100 -250 50 H I L CNN "Size"
-F5 "5%" 100 -150 50 H I L CNN "Tolerance"
+F4 "1005" 50 -250 50 H I L CNN "Size"
+F5 "5%" 50 -150 50 H I L CNN "Tolerance"
 F6 "? W" 0 -450 50 H I L CNN "Rated"
 F7 "2" 0 -550 50 H I C CNN "Pin"
 F8 "0.4" 0 -650 60 H I C CNN "Height (max)"
-F9 "?" 100 -50 60 H V L CNN "Value"
+F9 "?" 50 -50 60 H V L CNN "Value"
 $FPLIST
  Resistor_*
  R_*
