@@ -205,6 +205,11 @@ D Load Switch with Current Limit
 K Load Switch with Current Limit
 $ENDCMP
 #
+$CMP TPS2553DRVR-1
+D Load Switch with Current Limit, Latch-off
+K Load Switch with Current Limit, Latch-off
+$ENDCMP
+#
 $CMP TPS3701DDC
 D Window Comparator with Internal Reference
 K Window Comparator with Internal Reference

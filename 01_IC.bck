@@ -130,11 +130,6 @@ D GreenPAK, SLG46120
 K GreenPAK, SLG46120
 $ENDCMP
 #
-$CMP SLG4R41962V_old
-D GreenPAK, SLG46120
-K GreenPAK, SLG46120
-$ENDCMP
-#
 $CMP SLG4R41962V_r003U
 D GreenPAK, SLG46120
 K GreenPAK, SLG46120
@@ -208,6 +203,11 @@ $ENDCMP
 $CMP TPS2553DDBV
 D Load Switch with Current Limit
 K Load Switch with Current Limit
+$ENDCMP
+#
+$CMP TPS2553DRVR-1
+D Load Switch with Current Limit, Latch-off
+K Load Switch with Current Limit, Latch-off
 $ENDCMP
 #
 $CMP TPS3701DDC
