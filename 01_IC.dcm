@@ -50,6 +50,10 @@ D Dual Analog switch, Fairchild
 K Dual Analog switch, Fairchild
 $ENDCMP
 #
+$CMP FT231XS
+D FTDI, USB-UART, SSOP-20
+$ENDCMP
+#
 $CMP ICM-20648
 D 6-axis MEMS w/ DMP, InvenSense
 K 6-axis MEMS w/ DMP, InvenSense
