@@ -6,8 +6,13 @@ K Switching Diode, 1x0.6mm
 $ENDCMP
 #
 $CMP DA3S103E0L
-D Switching Diode, Dual
-K Switching Diode, Dual
+D Switching Diode, Dual, Common Cathode, 1.6x1.6
+K Switching Diode, Dual, Common Cathode, 1.6x1.6
+$ENDCMP
+#
+$CMP DAN222M3T5G
+D Switching Diode, Dual, Common Cathode, 1.2x1.2
+K Switching Diode, Dual, Common Cathode, 1.2x1.2
 $ENDCMP
 #
 $CMP DB2S31600L
