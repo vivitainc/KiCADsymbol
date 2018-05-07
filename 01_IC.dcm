@@ -6,8 +6,13 @@ K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
 $CMP BD4827FVE
-D Rohm, Reset IC, 2.7V
-K Rohm, Reset IC, 2.7V
+D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
+K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
+$ENDCMP
+#
+$CMP BD5226FVE
+D Rohm, Reset IC, 2.6V, Open-Drain, Adjustable Delay
+K Rohm, Reset IC, 2.6V, Open-Drain, Adjustable Delay
 $ENDCMP
 #
 $CMP BGM113A256V2
@@ -237,6 +242,11 @@ $ENDCMP
 $CMP TPS61099
 D 5V/0.8A Boost
 K Boost, DCDC, 5V
+$ENDCMP
+#
+$CMP TPS63050RMW
+D Adjustable Voltage, Buck-Boost, VQFN
+K Adjustable Voltage, Buck-Boost, VQFN
 $ENDCMP
 #
 $CMP TPS63051RMW

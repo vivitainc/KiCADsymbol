@@ -80,6 +80,10 @@ D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 $ENDCMP
 #
+$CMP PinHeader_4x1_1.27
+D 1.27mm pitch Pin Header, DIP
+$ENDCMP
+#
 $CMP SLG46125_temp
 D GreenPAK with two power switch
 K GreenPAK with two power switch, SILEGO

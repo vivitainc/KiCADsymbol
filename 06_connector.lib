@@ -611,6 +611,23 @@ X ~ 6 300 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# PinHeader_4x1_1.27
+#
+DEF PinHeader_4x1_1.27 CN 0 40 Y Y 1 F N
+F0 "CN" 0 400 60 H V C CNN
+F1 "PinHeader_4x1_1.27" 0 300 60 H V C CNN
+F2 "0_MyFootprint:1.27mm_4pinx1" 0 550 60 H I C CNN
+F3 "http://akizukidenshi.com/download/2199-pinheader.pdf" 0 550 60 H I C CNN
+F4 "4" 100 500 60 H I C CNN "Pin"
+DRAW
+S 50 200 -50 -200 0 1 0 N
+X ~ 1 -250 150 200 R 50 50 1 1 P
+X ~ 2 -250 50 200 R 50 50 1 1 P
+X ~ 3 -250 -50 200 R 50 50 1 1 P
+X ~ 4 -250 -150 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # PinHeader_4x2_2.54
 #
 DEF PinHeader_4x2_2.54 CN 0 40 Y Y 1 F N

@@ -46,7 +46,7 @@ ENDDEF
 DEF 503480-1000 CN 0 40 Y Y 1 F N
 F0 "CN" 0 650 60 H V C CNN
 F1 "503480-1000" 0 550 60 H V C CNN
-F2 "0_MyFootprint:503480-1400" 0 -1050 60 H I C CNN
+F2 "0_MyFootprint:503480-1000" 0 -1050 60 H I C CNN
 F3 "https://www.japanese.molex.com/molex/products/datasheet.jsp?part=active/5034801000_FFC_FPC_CONNECTORS.xml" 0 -850 60 H I C CNN
 F4 "10" 150 1000 60 H I C CNN "Pin"
 F5 "1.87" 250 1100 60 H I C CNN "Height (max)"
@@ -608,6 +608,23 @@ X ~ 3 -300 0 200 R 50 50 1 1 P
 X ~ 4 300 0 200 L 50 50 1 1 P
 X ~ 5 -300 -100 200 R 50 50 1 1 P
 X ~ 6 300 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PinHeader_4x1_1.27
+#
+DEF PinHeader_4x1_1.27 CN 0 40 Y Y 1 F N
+F0 "CN" 0 400 60 H V C CNN
+F1 "PinHeader_4x1_1.27" 0 300 60 H V C CNN
+F2 "" 0 550 60 H I C CNN
+F3 "http://akizukidenshi.com/download/2199-pinheader.pdf" 0 550 60 H I C CNN
+F4 "4" 100 500 60 H I C CNN "Pin"
+DRAW
+S 50 200 -50 -200 0 1 0 N
+X ~ 1 -250 150 200 R 50 50 1 1 P
+X ~ 2 -250 50 200 R 50 50 1 1 P
+X ~ 3 -250 -50 200 R 50 50 1 1 P
+X ~ 4 -250 -150 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
