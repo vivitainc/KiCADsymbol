@@ -616,7 +616,7 @@ ENDDEF
 DEF PinHeader_4x1_1.27 CN 0 40 Y Y 1 F N
 F0 "CN" 0 400 60 H V C CNN
 F1 "PinHeader_4x1_1.27" 0 300 60 H V C CNN
-F2 "" 0 550 60 H I C CNN
+F2 "0_MyFootprint:1.27mm_4pinx1" 0 550 60 H I C CNN
 F3 "http://akizukidenshi.com/download/2199-pinheader.pdf" 0 550 60 H I C CNN
 F4 "4" 100 500 60 H I C CNN "Pin"
 DRAW

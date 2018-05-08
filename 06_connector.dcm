@@ -35,6 +35,11 @@ D TE, Polarized, 2.54mm pitch, 2pin, 5A/pin, Tin Plated
 K TE, Polarized, 2.54mm pitch, 2pin, 5A/pin, Tin Plated
 $ENDCMP
 #
+$CMP 87520-0010BLF
+D USB Type-A Receptacle
+K USB Type-A Receptacle
+$ENDCMP
+#
 $CMP B2B-PH-KL
 D JST, PH Connector, 2pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
