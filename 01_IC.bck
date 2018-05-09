@@ -134,7 +134,7 @@ D GreenPAK with two power switch
 K GreenPAK with two power switch, SILEGO
 $ENDCMP
 #
-$CMP SLG4R41962V
+$CMP SLG4R14962V
 D GreenPAK, SLG46120
 K GreenPAK, SLG46120
 $ENDCMP
