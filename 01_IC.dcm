@@ -5,11 +5,6 @@ D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
-$CMP BD4825FVE
-D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
-K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
-$ENDCMP
-#
 $CMP BD4827FVE
 D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
@@ -139,7 +134,7 @@ D GreenPAK with two power switch
 K GreenPAK with two power switch, SILEGO
 $ENDCMP
 #
-$CMP SLG4R14962V
+$CMP SLG4R41962V
 D GreenPAK, SLG46120, rev.6
 K GreenPAK, SLG46120, rev.6
 $ENDCMP
