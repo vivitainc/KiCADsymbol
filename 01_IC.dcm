@@ -184,6 +184,11 @@ D 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
 K 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
 $ENDCMP
 #
+$CMP Si8605AD-B-IS
+D I2C Isolator, Silicon Labs
+K I2C Isolator, Silicon Labs
+$ENDCMP
+#
 $CMP TC7SH17FU
 D Single buffer with Schmitt Trigger
 K Single buffer with Schmitt Trigger
