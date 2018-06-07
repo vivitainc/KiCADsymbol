@@ -1067,7 +1067,9 @@ DEF Si8605AD-B-IS IC 0 40 Y Y 1 F N
 F0 "IC" 0 650 60 H V C CNN
 F1 "Si8605AD-B-IS" 0 550 60 H V C CNN
 F2 "" -450 350 60 H I C CNN
-F3 "" -450 350 60 H I C CNN
+F3 "https://www.silabs.com/documents/public/data-sheets/Si860x.pdf" 0 -750 60 H I C CNN
+F4 "16" 0 -800 60 H I C CNN "Pin"
+F5 "1.75" 0 -800 60 H I C CNN "Height (max)"
 DRAW
 S -400 450 400 -450 0 1 0 N
 X AVDD 1 600 350 200 L 50 50 1 1 P
