@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 946H-1C-3D
+D 3V Relay, 1C, 2A/30VDC
+K 3V Relay, 1C, 2A/30VDC
+$ENDCMP
+#
 $CMP KMT071NGJLHS
 D tact switch, C&K, 2.26N, 3.7x3.7
 K tact switch, C&K, 2.26N, 3.7x3.7

@@ -5,6 +5,11 @@ D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
+$CMP B1205S-1W
+D 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
+K 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
+$ENDCMP
+#
 $CMP BD4827FVE
 D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
@@ -87,6 +92,11 @@ $ENDCMP
 $CMP LMS33460MG_NOPB
 D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
+$ENDCMP
+#
+$CMP MCWI03-12S05
+D 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
+K 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
 $ENDCMP
 #
 $CMP MIC803-30D2VC3
