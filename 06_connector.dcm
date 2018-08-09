@@ -10,6 +10,11 @@ D molex, USB Micro-B, SMD
 K molex, USB Micro-B, SMD
 $ENDCMP
 #
+$CMP 12401598E4#2A
+D USB Type-C Connector
+K USB Type-C Connector
+$ENDCMP
+#
 $CMP 20021511-00010T4LF
 D JTAG Connector 1.27mm x 10pin x 2row
 K JTAG Connector 1.27mm x 10pin x 2row
