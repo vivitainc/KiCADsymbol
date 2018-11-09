@@ -103,6 +103,11 @@ $CMP MIC803-30D2VC3
 D Micrel, Reset IC, 3.00V, Open Drain
 $ENDCMP
 #
+$CMP MIC803-41D2VM3-TR
+D MICREL, Reset IC, 4.1V, 20ms, Open-Drain, SOT23-3
+K MICREL, Reset IC, 4.1V, 20ms, Open-Drain, SOT23-3
+$ENDCMP
+#
 $CMP MP3423
 D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
 K DCDC, Boost, MPS
