@@ -6,9 +6,19 @@ K N-Channel MOSFET Logic Level
 F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
+$CMP BSS138
+D N-channel MOSFET
+K N-channel MOSFET
+$ENDCMP
+#
 $CMP HN1B04FE-Y
 D NPN, PNP, double, Transistor
 K NPN, PNP, double, Transistor
+$ENDCMP
+#
+$CMP IRLML6402
+D -20V Vds, -3.7A Id, 50m Ohm,  P-Channel MOSFET, SOT-23
+K -20V Vds, -3.7A Id, 50m Ohm,  P-Channel MOSFET, SOT-23
 $ENDCMP
 #
 $CMP MOCD207R2M
@@ -43,8 +53,8 @@ K Vishay, N-channel MOSFET, Id 40A,
 $ENDCMP
 #
 $CMP SSM3J15FV
-D 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
-K 30V Vds, 0.1A Id, N-Channel MOSFET, SOT-723, small signal
+D 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
+K 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
 F http://www.tyro-teq.com/ds/pdf/s/0030/SSM3J15FV.pdf
 $ENDCMP
 #
@@ -56,11 +66,6 @@ $ENDCMP
 $CMP SSM6N15AFE
 D 2 x N-channel MOSFET
 K 2 x N-channel MOSFET, Dual
-$ENDCMP
-#
-$CMP TLP291(SE
-D Toshiba, Photo Transistor
-K Toshiba, Photo Transistor
 $ENDCMP
 #
 $CMP TT8J11
