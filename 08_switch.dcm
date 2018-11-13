@@ -30,6 +30,11 @@ D tact switch, alps, 2.55N, 4.5x4.5
 K tact switch, alps,  2.55N, 4.5x4.5
 $ENDCMP
 #
+$CMP SS12D01G4
+D slide switch, SPDT, Akiduki
+K slide switch, SPDT, Akiduki
+$ENDCMP
+#
 $CMP SW_PUSH_SMALL_H
 D Button
 K switch
