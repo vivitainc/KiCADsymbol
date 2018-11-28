@@ -7,8 +7,8 @@ F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
 $CMP BSS138
-D N-channel MOSFET
-K N-channel MOSFET
+D N-channel MOSFET, small signal, SOT23-3
+K N-channel MOSFET, small signal, SOT23-3
 $ENDCMP
 #
 $CMP HN1B04FE-Y
