@@ -55,6 +55,11 @@ D JST, PH Connector, 2pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
 $ENDCMP
 #
+$CMP B2P-VH-FB-B
+D VH, 2pin, Box, JST
+K VH, 2pin, Box, JST
+$ENDCMP
+#
 $CMP B3B-PH-KL
 D JST, PH Connector, 3pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
@@ -68,6 +73,11 @@ $ENDCMP
 $CMP B8B-PHDSS
 D PHD, 2mm pitch, Dual, 8pin, 3A/pin
 K PHD, 2mm pitch, Dual, 8pin
+$ENDCMP
+#
+$CMP BA3AAPC
+D AA, 3sries cells, DIP, MPD
+K AA, 3sries cells, DIP, MPD
 $ENDCMP
 #
 $CMP DF40C-20DP-0.4V(51)
