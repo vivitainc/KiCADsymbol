@@ -244,6 +244,11 @@ D Window Comparator with Internal Reference
 K Window Comparator with Internal Reference
 $ENDCMP
 #
+$CMP TPS3803-01DCKR
+D Reset IC, Adjustable, Open-Drain, TI
+K Reset IC, Adjustable, Open-Drain, TI
+$ENDCMP
+#
 $CMP TPS56428RHL
 D DCDC Buck, Vin 4.5 to 18V, Vout 0.7 to 7V, Iout 4A
 K DCDC, Buck, TI
