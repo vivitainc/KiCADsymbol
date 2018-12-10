@@ -5,6 +5,11 @@ D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
+$CMP ATMEGA328PB-AUR
+D ATMEGA328PB-AU, this symbol for Arduino
+K ATMEGA328PB, AVR, Arduino
+$ENDCMP
+#
 $CMP B1205S-1W
 D 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
 K 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
@@ -99,8 +104,12 @@ D 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
 K 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
 $ENDCMP
 #
+$CMP MIC803-26D2VC3
+D Micrel, Reset IC, 2.63V, Open Drain, SC70-3
+$ENDCMP
+#
 $CMP MIC803-30D2VC3
-D Micrel, Reset IC, 3.00V, Open Drain
+D Micrel, Reset IC, 3.00V, Open Drain, SC70-3
 $ENDCMP
 #
 $CMP MIC803-41D2VM3-TR
@@ -111,6 +120,11 @@ $ENDCMP
 $CMP MP3423
 D Boost, Vin 1.9 to 5.5V, Vout 2.5 to 5.5V, Isw 9A
 K DCDC, Boost, MPS
+$ENDCMP
+#
+$CMP NCP114ASN250T1G
+D LDO, 2.5V out, Vin 1.7 to 5.5V, 300mA, On Semi
+K LDO, 2.5V out, Vin 1.7 to 5.5V, 300mA, On Semi
 $ENDCMP
 #
 $CMP NL17SZ14DFT2G
