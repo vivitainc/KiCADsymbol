@@ -21,6 +21,11 @@ D -20V Vds, -3.7A Id, 50m Ohm,  P-Channel MOSFET, SOT-23
 K -20V Vds, -3.7A Id, 50m Ohm,  P-Channel MOSFET, SOT-23
 $ENDCMP
 #
+$CMP MCH6353-TL-W
+D -12 V, −6 A, Single P−Channel
+K -12 V, −6 A, Single P−Channel
+$ENDCMP
+#
 $CMP MOCD207R2M
 D Onsemi, Dual, Photo Transistor
 K Onsemi, Dual, Photo Transistor
@@ -43,8 +48,8 @@ K 5A, Dual P−Channel
 $ENDCMP
 #
 $CMP SCH1345
-D −20 V, −4.5 A, Single P−Channel
-K −20 V, −4.5 A, Single P−Channel
+D (EOL) −20 V, −4.5 A, Single P−Channel
+K (EOL)−20 V, −4.5 A, Single P−Channel
 $ENDCMP
 #
 $CMP SI7858BDP

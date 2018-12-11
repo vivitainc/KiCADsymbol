@@ -10,4 +10,14 @@ D CERALOCK, Ceramic Resonators, 8MHz
 K CERALOCK, Ceramic Resonators, 8MHz
 $ENDCMP
 #
+$CMP CSTCR4M00G53-R0
+D CERALOCK, Ceramic Resonators, 4MHz, 15pF, 60ohm
+K CERALOCK, Ceramic Resonators, 4MHz, 15pF, 60ohm
+$ENDCMP
+#
+$CMP CSTCR4M00G53U-R0
+D CERALOCK, Ceramic Resonators, 4MHz, 15pF, 45ohm
+K CERALOCK, Ceramic Resonators, 4MHz, 15pF, 45ohm
+$ENDCMP
+#
 #End Doc Library

@@ -10,4 +10,9 @@ D point
 K point tp
 $ENDCMP
 #
+$CMP TEST_POINT_TH
+D point
+K point tp
+$ENDCMP
+#
 #End Doc Library

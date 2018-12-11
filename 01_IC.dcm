@@ -20,6 +20,11 @@ D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 $ENDCMP
 #
+$CMP BD4927FVE
+D Rohm, Reset IC, 2.7V, Push-Pull, Fixed Delay
+K Rohm, Reset IC, 2.7V, Push-Pull, Fixed Delay
+$ENDCMP
+#
 $CMP BD5226FVE
 D Rohm, Reset IC, 2.6V, Open-Drain, Adjustable Delay
 K Rohm, Reset IC, 2.6V, Open-Drain, Adjustable Delay
