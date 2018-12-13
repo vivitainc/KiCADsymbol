@@ -5,6 +5,11 @@ D 3V Relay, 1C, 2A/30VDC
 K 3V Relay, 1C, 2A/30VDC
 $ENDCMP
 #
+$CMP FT1E-2M-Z
+D toggle switch, SPDT, 中点あり, Akiduki
+K toggle switch, SPDT, 中点あり, Akiduki
+$ENDCMP
+#
 $CMP KMT071NGJLHS
 D tact switch, C&K, 2.26N, 3.7x3.7
 K tact switch, C&K, 2.26N, 3.7x3.7
