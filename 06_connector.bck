@@ -65,6 +65,11 @@ D JST, PH Connector, 3pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector
 $ENDCMP
 #
+$CMP B3B-XH-AM
+D JST, XH Connector, 3pin, Top, ボスあり
+K JST, XH Connector, 3pin, Top, ボスあり
+$ENDCMP
+#
 $CMP B4B-PH-KL
 D JST, PH Connector, 4pin, Top, 低嵌合, 2A/pin
 K JST, PH Connector

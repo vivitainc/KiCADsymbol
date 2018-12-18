@@ -15,6 +15,11 @@ D ATMEGA328PB-AU, this symbol for Arduino
 K ATMEGA328PB, AVR, Arduino
 $ENDCMP
 #
+$CMP ATMEGA328PB-MUR
+D ATMEGA328PB-AU, this symbol for Arduino
+K ATMEGA328PB, AVR, Arduino
+$ENDCMP
+#
 $CMP B1205S-1W
 D 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
 K 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA

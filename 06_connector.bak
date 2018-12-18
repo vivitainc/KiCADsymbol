@@ -268,8 +268,8 @@ F3 "http://www.jst-mfg.com/product/pdf/jpn/VH.pdf" 0 550 60 H I C CNN
 F4 "2" 0 -300 60 H I C CNN "Pin"
 DRAW
 S -200 150 0 -50 0 1 0 N
-X + 1 200 100 200 L 50 50 1 1 P
-X - 2 200 0 200 L 50 50 1 1 P
+X ~ 1 200 100 200 L 50 50 1 1 P
+X ~ 2 200 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -280,6 +280,22 @@ F0 "CN" 0 350 60 H V C CNN
 F1 "B3B-PH-KL" 0 250 60 H V C CNN
 F2 "0_MyFootprint:B3B-PH-K" 150 -300 60 H I C CNN
 F3 "http://www.jst-mfg.com/product/pdf/jpn/PH.pdf" -200 900 60 H I C CNN
+F4 "3" 0 -400 60 H I C CNN "Pin"
+DRAW
+S -50 150 100 -150 0 1 0 N
+X ~ 1 -250 100 200 R 50 50 1 1 P
+X ~ 2 -250 0 200 R 50 50 1 1 P
+X ~ 3 -250 -100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# B3B-XH-AM
+#
+DEF B3B-XH-AM CN 0 40 Y Y 1 F N
+F0 "CN" 0 350 60 H V C CNN
+F1 "B3B-XH-AM" 0 250 60 H V C CNN
+F2 "0_MyFootprint:B3B-XH-AM" 150 -300 60 H I C CNN
+F3 "http://www.jst-mfg.com/product/pdf/jpn/XH.pdf" -200 900 60 H I C CNN
 F4 "3" 0 -400 60 H I C CNN "Pin"
 DRAW
 S -50 150 100 -150 0 1 0 N
