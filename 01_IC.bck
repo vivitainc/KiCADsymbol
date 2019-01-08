@@ -16,8 +16,8 @@ K ATMEGA328PB, QFP, AVR, Arduino
 $ENDCMP
 #
 $CMP ATMEGA328PB-MUR
-D ATMEGA328PB-AU, this symbol for Arduino
-K ATMEGA328PB, AVR, Arduino
+D ATMEGA328PB-MUR, QFN, this symbol for Arduino
+K ATMEGA328PB, QFN, AVR, Arduino
 $ENDCMP
 #
 $CMP B1205S-1W
