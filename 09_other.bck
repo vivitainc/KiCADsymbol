@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP K2-0.68S-SP18.3-25.5L-1
+D point
+K point tp
+$ENDCMP
+#
 $CMP PKM17EPPH4001-B0
 D Audio speaker, 2 pins, generic symbol
 K buzzer beeper sound

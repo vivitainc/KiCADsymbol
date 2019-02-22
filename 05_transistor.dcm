@@ -11,6 +11,11 @@ D N-channel MOSFET, small signal, SOT23-3
 K N-channel MOSFET, small signal, SOT23-3
 $ENDCMP
 #
+$CMP CSTNE8M00G550000R0
+D CERALOCK, Ceramic Resonators, 8MHz
+K CERALOCK, Ceramic Resonators, 8MHz
+$ENDCMP
+#
 $CMP HN1B04FE-Y
 D NPN, PNP, double, Transistor
 K NPN, PNP, double, Transistor

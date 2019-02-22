@@ -137,7 +137,7 @@ F1 "MCH6353-TL-W" 200 0 50 H V L CNN
 F2 "0_MyFootprint:OnSemi_MCPH6" 200 -75 50 H I L CIN
 F3 "https://www.onsemi.jp/PowerSolutions/document/ENA2206-D.PDF" 250 -200 50 H I L CNN
 F4 "6" 300 -350 60 H I C CNN "Pin"
-F5 "0.85" 400 275 60 H I C CNN "Height (max)"
+F5 "0.9" 400 275 60 H I C CNN "Height (max)"
 $FPLIST
  SOT-23*
 $ENDFPLIST
