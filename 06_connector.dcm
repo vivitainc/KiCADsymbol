@@ -110,6 +110,11 @@ D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 $ENDCMP
 #
+$CMP MiniGearedMotor
+D Mini DC Geared Motor Connector
+K Mini DC Geared Motor Connector
+$ENDCMP
+#
 $CMP PinHeader_4x1_1.27
 D 1.27mm pitch Pin Header, DIP
 $ENDCMP

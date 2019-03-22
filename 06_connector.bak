@@ -666,6 +666,21 @@ X ~ 39 -300 -1300 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# MiniGearedMotor
+#
+DEF MiniGearedMotor CN 0 40 Y Y 1 F N
+F0 "CN" 0 300 60 H V C CNN
+F1 "MiniGearedMotor" 0 200 60 H V C CNN
+F2 "" 150 -300 60 H I C CNN
+F3 "" -200 900 60 H I C CNN
+F4 "2" 0 -200 60 H I C CNN "Pin"
+DRAW
+S -50 100 100 -100 0 1 0 N
+X ~ 1 -250 50 200 R 50 50 1 1 P
+X ~ 2 -250 -50 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # PinHeader_10x1_2.54
 #
 DEF PinHeader_10x1_2.54 CN 0 40 Y Y 1 F N
@@ -723,7 +738,7 @@ ENDDEF
 DEF PinHeader_2x1_2.54 CN 0 40 Y Y 1 F N
 F0 "CN" -50 350 60 H V C CNN
 F1 "PinHeader_2x1_2.54" -50 250 60 H V C CNN
-F2 "0_MyFootprint:2.54mm_3pin_TH" 150 -300 60 H I C CNN
+F2 "0_MyFootprint:2.54mm_2pin_TH" 150 -300 60 H I C CNN
 F3 "" -200 900 60 H I C CNN
 F4 "2" 0 -400 60 H I C CNN "Pin"
 DRAW
