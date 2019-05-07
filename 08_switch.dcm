@@ -5,6 +5,11 @@ D 3V Relay, 1C, 2A/30VDC
 K 3V Relay, 1C, 2A/30VDC
 $ENDCMP
 #
+$CMP B3FS-1050
+D tact switch, 6.0mm x 6.3mm, Omron
+K tact switch, 6.0mm x 6.3mm, Omron
+$ENDCMP
+#
 $CMP FT1E-2M-Z
 D toggle switch, SPDT, 中点あり, Akiduki
 K toggle switch, SPDT, 中点あり, Akiduki
