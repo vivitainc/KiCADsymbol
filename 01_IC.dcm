@@ -218,6 +218,11 @@ D Load SW, 4A, Reverse Block, Current Limit 6A
 K Load SW, 4A, Reverse Block, Current Limit 6A
 $ENDCMP
 #
+$CMP SN74AHC1G125DBVR
+D Fusion OPL, Tri-state Buffer
+K Fusion OPL, Tri-state Buffer
+$ENDCMP
+#
 $CMP SN74LV373ARGYR
 D TI, Octal Transparent D-Type Latches With 3-State Outputs
 K TI, Octal Transparent D-Type Latches With 3-State Outputs
@@ -231,6 +236,11 @@ $ENDCMP
 $CMP Si8605AD-B-IS
 D I2C Isolator, Silicon Labs
 K I2C Isolator, Silicon Labs
+$ENDCMP
+#
+$CMP TC7PZ14FU
+D Double Schmitt Trigger Inverter
+K Double Schmitt Trigger Inverter
 $ENDCMP
 #
 $CMP TC7SH17FU
