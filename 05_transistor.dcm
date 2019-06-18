@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2N7002BKS
+D FusionPCB OPL, 2 x N-channel MOSFET, Dual
+K FusionPCB OPL, 2 x N-channel MOSFET, Dual
+$ENDCMP
+#
 $CMP 2N7002W
 D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET Logic Level
@@ -14,6 +19,11 @@ $ENDCMP
 $CMP CSTNE8M00G550000R0
 D CERALOCK, Ceramic Resonators, 8MHz
 K CERALOCK, Ceramic Resonators, 8MHz
+$ENDCMP
+#
+$CMP DMP2225L
+D Fusion OPL, P-Channel MOSFET, SOT-23
+K Fusion OPL, P-Channel MOSFET, SOT-23
 $ENDCMP
 #
 $CMP HN1B04FE-Y

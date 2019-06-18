@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 19-217-R6C-AL1M2VY-3T
+D FusionPCB OPL, LED, 1608, red
+K FusionPCB OPL, LED, red
+$ENDCMP
+#
 $CMP RPR-220
 D Rohm, photo riflector
 K Rohm, photo riflector
@@ -33,6 +38,11 @@ $ENDCMP
 $CMP SML-D12Y1WT86
 D LED, 1608, yellow
 K LED, yellow
+$ENDCMP
+#
+$CMP SMLP34RGB2W3
+D LED, 1010, RBG
+K LED, 1010, RBG
 $ENDCMP
 #
 $CMP TLP291(SE

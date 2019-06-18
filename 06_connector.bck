@@ -129,6 +129,11 @@ D point
 K point tp
 $ENDCMP
 #
+$CMP U-F-M5DD-Y-L
+D molex, USB Micro-B, SMD
+K molex, USB Micro-B, SMD
+$ENDCMP
+#
 $CMP UE27-AC54-100
 D USB Type-A Receptacle
 K USB Type-A Receptacle
