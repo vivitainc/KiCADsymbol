@@ -25,4 +25,9 @@ D TVS Diode
 K TVS Diode
 $ENDCMP
 #
+$CMP RB511SM-30FHT2R
+D Rohm, Schottky barrier diode, 1.2x0.8mm
+K Rohm, Schottky barrier diode, 1.2x0.8mm
+$ENDCMP
+#
 #End Doc Library

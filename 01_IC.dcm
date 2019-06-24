@@ -5,6 +5,11 @@ D DIODES, LDO, 3.3V, 300mA
 K DIODES, LDO, 3.3V, 300mA
 $ENDCMP
 #
+$CMP APDS-9960
+D Avago, Proximity, Ambient Light, RGB, Gesture Sensor
+K Avago, Proximity, Ambient Light, RGB, Gesture Sensor
+$ENDCMP
+#
 $CMP ATMEGA328P-AU
 D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
@@ -23,6 +28,11 @@ $ENDCMP
 $CMP B1205S-1W
 D 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
 K 絶縁DCDC, Vin12V, Vout5V, Iout20 - 200mA
+$ENDCMP
+#
+$CMP BCR421UW6
+D DIODES, LED Driver, up to 350mA with dimming
+K DIODES, LED Driver, up to 350mA with dimming
 $ENDCMP
 #
 $CMP BD4827FVE
