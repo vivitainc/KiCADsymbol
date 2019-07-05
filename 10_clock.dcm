@@ -20,6 +20,11 @@ D CERALOCK, Ceramic Resonators, 8MHz
 K CERALOCK, Ceramic Resonators, 8MHz
 $ENDCMP
 #
+$CMP [EOL]CSTCE16M0V53-R0
+D CERALOCK, Ceramic Resonators, 16MHz
+K CERALOCK, Ceramic Resonators, 16MHz
+$ENDCMP
+#
 $CMP [EOL]CSTCE8M00G55-R0
 D CERALOCK, Ceramic Resonators, 8MHz
 K CERALOCK, Ceramic Resonators, 8MHz
