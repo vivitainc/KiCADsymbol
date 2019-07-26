@@ -130,8 +130,8 @@ K point tp
 $ENDCMP
 #
 $CMP U-F-M5DD-Y-L
-D molex, USB Micro-B, SMD
-K molex, USB Micro-B, SMD
+D Fusion OPL, HRO, USB Micro-B, SMD
+K Fusion OPL, HRO, USB Micro-B, SMD
 $ENDCMP
 #
 $CMP UE27-AC54-100

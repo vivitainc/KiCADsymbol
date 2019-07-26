@@ -157,6 +157,11 @@ D LDO, 2.5V out, Vin 1.7 to 5.5V, 300mA, On Semi
 K LDO, 2.5V out, Vin 1.7 to 5.5V, 300mA, On Semi
 $ENDCMP
 #
+$CMP NCP5623CMUTBG
+D Onsemi, 3 channel LED Driver with Charge Pump
+K Onsemi, 3 channel LED Driver with Charge Pump
+$ENDCMP
+#
 $CMP NL17SZ14DFT2G
 D Single Inverter with Schmitt Trigger
 K Single Inverter with Schmitt Trigger
