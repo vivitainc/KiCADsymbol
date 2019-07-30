@@ -11,6 +11,11 @@ K N-Channel MOSFET Logic Level
 F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
+$CMP 2SC2712-Y,LF
+D Toshiba, NPN
+K Toshiba, NPN
+$ENDCMP
+#
 $CMP BSS138
 D N-channel MOSFET, small signal, SOT23-3
 K N-channel MOSFET, small signal, SOT23-3
