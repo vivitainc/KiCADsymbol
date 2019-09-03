@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 19-217-R6C-AL1M2VY-3T
-D FusionPCB OPL, LED, 1608, red
-K FusionPCB OPL, LED, red
+D Fusion OPL, Everlight, LED, 1608, red
+K Fusion OPL, Everlight, LED, 1608, red
 $ENDCMP
 #
 $CMP RPR-220

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10118193-0001LF
+D Fusion OPL, FCI, USB Micro-B, SMD
+K Fusion OPL, FCI, USB Micro-B, SMD
+$ENDCMP
+#
 $CMP 1042P
 D 18650 1cell battery holder, SMT, Keystone
 K 18650 1cell battery holder, SMT, Keystone
@@ -122,6 +127,11 @@ $ENDCMP
 $CMP SLG46125_temp
 D GreenPAK with two power switch
 K GreenPAK with two power switch, SILEGO
+$ENDCMP
+#
+$CMP ST-USB-003A
+D Fusion OPL, SUNTECH, USB Type-A Receptacle
+K Fusion OPL, SUNTECH, USB Type-A Receptacle
 $ENDCMP
 #
 $CMP TEST_1P

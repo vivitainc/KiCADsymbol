@@ -17,8 +17,13 @@ K Toshiba, NPN
 $ENDCMP
 #
 $CMP BSS138
-D N-channel MOSFET, small signal, SOT23-3
-K N-channel MOSFET, small signal, SOT23-3
+D Onsemi, N-channel MOSFET, small signal, SOT23-3
+K Onsemi, N-channel MOSFET, small signal, SOT23-3
+$ENDCMP
+#
+$CMP BSS138W
+D Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
+K Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
 $ENDCMP
 #
 $CMP CSTNE8M00G550000R0
