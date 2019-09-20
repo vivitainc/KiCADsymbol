@@ -95,11 +95,6 @@ D Dual Analog switch, Fairchild
 K Dual Analog switch, Fairchild
 $ENDCMP
 #
-$CMP FT230XS
-D Fusion OPL, FTDI, USB-UART, SSOP-20
-K Fusion OPL, FTDI, USB-UART, SSOP-20
-$ENDCMP
-#
 $CMP FT231XS
 D FTDI, USB-UART, SSOP-20
 $ENDCMP
@@ -132,6 +127,11 @@ $ENDCMP
 $CMP LMS33460MG_NOPB
 D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
+$ENDCMP
+#
+$CMP LSM6DS3TR
+D STMicro, 6DoF (Gyro, Accel)
+K STMicro, 6DoF (Gyro, Accel)
 $ENDCMP
 #
 $CMP MCWI03-12S05

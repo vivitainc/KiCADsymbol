@@ -129,6 +129,11 @@ D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
 $ENDCMP
 #
+$CMP LSM6DS3TR
+D STMicro, 6DoF (Gyro, Accel)
+K STMicro, 6DoF (Gyro, Accel)
+$ENDCMP
+#
 $CMP MCWI03-12S05
 D 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
 K 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
