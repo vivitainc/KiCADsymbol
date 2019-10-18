@@ -1,13 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2MD1T2B4M2QN
+D toggle switch, DPDT,  中点なし, Akiduki
+K toggle switch, DPDT,  中点なし, Akiduki
+$ENDCMP
+#
 $CMP 946H-1C-3D
 D 3V Relay, 1C, 2A/30VDC
 K 3V Relay, 1C, 2A/30VDC
 $ENDCMP
 #
 $CMP B3FS-1050
-D tact switch, 6.0mm x 6.3mm, Alps
-K tact switch, 6.0mm x 6.3mm, Alps
+D tact switch, 6.0mm x 6.3mm, Omron
+K tact switch, 6.0mm x 6.3mm, Omron
 $ENDCMP
 #
 $CMP FT1E-2M-Z

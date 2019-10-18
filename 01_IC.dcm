@@ -129,6 +129,11 @@ D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
 $ENDCMP
 #
+$CMP LSM6DS3TR
+D STMicro, 6DoF (Gyro, Accel)
+K STMicro, 6DoF (Gyro, Accel)
+$ENDCMP
+#
 $CMP MCWI03-12S05
 D 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
 K 絶縁Buck, Vin 4.5 ~ 18V, Vout 5V, Iout 150 ~ 600mA
@@ -346,6 +351,11 @@ $ENDCMP
 $CMP VL53L0CXV0DH/1
 D ToF Range Sensor
 K ToF Range Sensor
+$ENDCMP
+#
+$CMP XC6204B332MR
+D Fusion OPL, Torex, LDO, 3.3V, 150mA
+K Fusion OPL, Torex, LDO, 3.3V, 150mA
 $ENDCMP
 #
 #End Doc Library
