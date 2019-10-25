@@ -60,11 +60,6 @@ D Silicon Labs Bluetooth module BGM113
 K Silicon Labs Bluetooth module BGM113
 $ENDCMP
 #
-$CMP BGM123A256V2
-D Silicon Labs Bluetooth module BGM113
-K Silicon Labs Bluetooth module BGM113
-$ENDCMP
-#
 $CMP BQ24232RGT
 D BQ24232, 1-cell Charger
 K BQ24232, Charger
