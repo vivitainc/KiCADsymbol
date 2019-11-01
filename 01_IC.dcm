@@ -40,6 +40,11 @@ D DIODES, LED Driver, up to 350mA with dimming
 K DIODES, LED Driver, up to 350mA with dimming
 $ENDCMP
 #
+$CMP BD4820G
+D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
+K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
+$ENDCMP
+#
 $CMP BD4827FVE
 D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
