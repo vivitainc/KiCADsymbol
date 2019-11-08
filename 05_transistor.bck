@@ -12,8 +12,8 @@ F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
 $CMP 2SA1162
-D NPN, PNP, double, Transistor
-K NPN, PNP, double, Transistor
+D PNP, Transistor
+K PNP, double, Transistor
 $ENDCMP
 #
 $CMP 2SC2712-Y,LF

@@ -77,6 +77,12 @@ D 5A, Dual P−Channel
 K 5A, Dual P−Channel
 $ENDCMP
 #
+$CMP RZM001P02
+D 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
+K 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
+F http://www.tyro-teq.com/ds/pdf/s/0030/SSM3J15FV.pdf
+$ENDCMP
+#
 $CMP SCH1345
 D (EOL) −20 V, −4.5 A, Single P−Channel
 K (EOL)−20 V, −4.5 A, Single P−Channel
