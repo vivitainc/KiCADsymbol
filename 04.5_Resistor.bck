@@ -20,6 +20,11 @@ D ALPS, Volume, 10k, 1B
 K ALPS, Volume, 10k, 1B
 $ENDCMP
 #
+$CMP R_alt
+D 4 resistors Pack
+K R DEV
+$ENDCMP
+#
 $CMP SL4515N-B103L15CM
 D Akizuki, Slide Volume, B curve, 10k
 K Akizuki, Slide Volume, B curve, 10k

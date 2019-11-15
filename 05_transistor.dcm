@@ -11,9 +11,14 @@ K N-Channel MOSFET Logic Level
 F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
-$CMP 2SA1162
-D PNP, Transistor
-K PNP, double, Transistor
+$CMP 2SA1162-GR,LF
+D Toshiba, PNP, Transistor, hFE 200-400
+K Toshiba, PNP, Transistor, hFE 200-400
+$ENDCMP
+#
+$CMP 2SA1162-Y,LF
+D Toshiba, PNP, Transistor, hFE 120-240
+K Toshiba, PNP, Transistor, hFE 120-240
 $ENDCMP
 #
 $CMP 2SC2712-Y,LF
