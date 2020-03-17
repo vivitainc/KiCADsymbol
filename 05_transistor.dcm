@@ -104,6 +104,11 @@ K 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
 F http://www.tyro-teq.com/ds/pdf/s/0030/SSM3J15FV.pdf
 $ENDCMP
 #
+$CMP SSM3J338R
+D Vds -12V, Vgs 10V, Id 6A Single P-Channel
+K Vds -12V, Vgs 10V, Id 6A Single P-Channel
+$ENDCMP
+#
 $CMP SSM3K15AMFV
 D N-channel MOSFET
 K N-channel MOSFET
