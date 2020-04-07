@@ -65,6 +65,16 @@ D Silicon Labs Bluetooth module BGM113
 K Silicon Labs Bluetooth module BGM113
 $ENDCMP
 #
+$CMP BGM11S12F256GA
+D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
+K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
+$ENDCMP
+#
+$CMP BGM123A256V2
+D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
+K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
+$ENDCMP
+#
 $CMP BQ24232RGT
 D BQ24232, 1-cell Charger
 K BQ24232, Charger
@@ -181,6 +191,11 @@ $ENDCMP
 $CMP NL17SZ17DFT2G
 D Single buffer with Schmitt Trigger
 K Single buffer with Schmitt Trigger
+$ENDCMP
+#
+$CMP NL27WZ00
+D ON-Semi, Dual 2-input, NAND Gate
+K ON-Semi, Dual 2-input, NAND Gate
 $ENDCMP
 #
 $CMP NL27WZ126USG
