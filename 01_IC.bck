@@ -45,6 +45,11 @@ D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 $ENDCMP
 #
+$CMP BD4825FVE
+D Rohm, Reset IC, 2.5V, Open Drain, Fixed Delay
+K Rohm, Reset IC, 2.5V, Open Drain, Fixed Delay
+$ENDCMP
+#
 $CMP BD4827FVE
 D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
@@ -63,6 +68,11 @@ $ENDCMP
 $CMP BGM113A256V2
 D Silicon Labs Bluetooth module BGM113
 K Silicon Labs Bluetooth module BGM113
+$ENDCMP
+#
+$CMP BGM11S12F256GA
+D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
+K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 $ENDCMP
 #
 $CMP BGM123A256V2
