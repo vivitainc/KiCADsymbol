@@ -75,6 +75,11 @@ D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 $ENDCMP
 #
+$CMP BGM11S22F256GA
+D Silicon Labs Bluetooth Module BGM11S BT Power=+8dBm
+K Silicon Labs Bluetooth Module BGM11S BT Power=+8dBm
+$ENDCMP
+#
 $CMP BGM123A256V2
 D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm

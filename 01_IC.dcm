@@ -75,6 +75,11 @@ D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 $ENDCMP
 #
+$CMP BGM11S22F256GA
+D Silicon Labs Bluetooth Module BGM11S BT Power=+8dBm
+K Silicon Labs Bluetooth Module BGM11S BT Power=+8dBm
+$ENDCMP
+#
 $CMP BGM123A256V2
 D Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
 K Silicon Labs Bluetooth Module BGM11S BT Power=+2dBm
@@ -376,6 +381,11 @@ $ENDCMP
 $CMP VL53L0CXV0DH/1
 D ToF Range Sensor
 K ToF Range Sensor
+$ENDCMP
+#
+$CMP W25Q80D
+D NOR Flash Memory, 8M-bit, 4KB 
+K NOR Flash Memory, 8M-bit, 4KB 
 $ENDCMP
 #
 $CMP XC6204B332MR

@@ -114,6 +114,11 @@ D N-channel MOSFET
 K N-channel MOSFET
 $ENDCMP
 #
+$CMP SSM6J213FE
+D 950mA, Single P−Channel
+K 950mA, Single P−Channel
+$ENDCMP
+#
 $CMP SSM6N15AFE
 D 2 x N-channel MOSFET
 K 2 x N-channel MOSFET, Dual
