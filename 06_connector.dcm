@@ -25,11 +25,6 @@ D JTAG Connector 1.27mm x 10pin x 2row
 K JTAG Connector 1.27mm x 10pin x 2row
 $ENDCMP
 #
-$CMP 503480-1000
-D 0.50mm pitch, 10 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
-K 0.50mm pitch, 10 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
-$ENDCMP
-#
 $CMP 503480-1400
 D 0.50mm pitch, , 14 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
 K 0.50mm pitch, , 14 pin, FPC/FFC Connector, 1.00mm Height, Right Angle, Surface Mount, Dual Contact Style
@@ -110,19 +105,14 @@ D BtoB Connector, Hirose, 2.5mm Height, Receptacle
 K BtoB Connector, Hirose, 2.5mm Height, Receptacle
 $ENDCMP
 #
+$CMP DF40HC(3.5)-20DS-0.4V(51)
+D BtoB Connector, Hirose, 3.5mm Height, Receptacle
+K BtoB Connector, Hirose, 3.5mm Height, Receptacle
+$ENDCMP
+#
 $CMP DF40HC(3.5)-40DS-0.4V(51)
 D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
-$ENDCMP
-#
-$CMP DX07S016JA1
-D JAE, USB Type-C Connector, 16pin, for USB2.0
-K JAE, USB Type-C Connector, 16pin, for USB2.0
-$ENDCMP
-#
-$CMP DX07S024JJ3R
-D JAE, USB Type-C Connector
-K JAE, USB Type-C Connector
 $ENDCMP
 #
 $CMP MiniGearedMotor

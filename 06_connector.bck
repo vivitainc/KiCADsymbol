@@ -110,19 +110,14 @@ D BtoB Connector, Hirose, 2.5mm Height, Receptacle
 K BtoB Connector, Hirose, 2.5mm Height, Receptacle
 $ENDCMP
 #
+$CMP DF40HC(3.5)-20DS-0.4V(51)
+D BtoB Connector, Hirose, 3.5mm Height, Receptacle
+K BtoB Connector, Hirose, 3.5mm Height, Receptacle
+$ENDCMP
+#
 $CMP DF40HC(3.5)-40DS-0.4V(51)
 D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
-$ENDCMP
-#
-$CMP DX07S016JA1
-D JAE, USB Type-C Connector, 16pin, for USB2.0
-K JAE, USB Type-C Connector, 16pin, for USB2.0
-$ENDCMP
-#
-$CMP DX07S024JJ3R
-D JAE, USB Type-C Connector
-K JAE, USB Type-C Connector
 $ENDCMP
 #
 $CMP MiniGearedMotor

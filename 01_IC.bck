@@ -383,6 +383,11 @@ D ToF Range Sensor
 K ToF Range Sensor
 $ENDCMP
 #
+$CMP W25Q80D
+D NOR Flash Memory, 8M-bit, 4KB 
+K NOR Flash Memory, 8M-bit, 4KB 
+$ENDCMP
+#
 $CMP XC6204B332MR
 D Fusion OPL, Torex, LDO, 3.3V, 150mA
 K Fusion OPL, Torex, LDO, 3.3V, 150mA
