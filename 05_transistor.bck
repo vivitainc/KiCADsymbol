@@ -31,7 +31,7 @@ D Onsemi, N-channel MOSFET, small signal, SOT23-3
 K Onsemi, N-channel MOSFET, small signal, SOT23-3
 $ENDCMP
 #
-$CMP BSS138W
+$CMP BSS138W-7-F
 D Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
 K Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
 $ENDCMP
@@ -42,6 +42,11 @@ K CERALOCK, Ceramic Resonators, 8MHz
 $ENDCMP
 #
 $CMP DMP2225L
+D Fusion OPL, P-Channel MOSFET, SOT-23
+K Fusion OPL, P-Channel MOSFET, SOT-23
+$ENDCMP
+#
+$CMP DMP2225L-7
 D Fusion OPL, P-Channel MOSFET, SOT-23
 K Fusion OPL, P-Channel MOSFET, SOT-23
 $ENDCMP
