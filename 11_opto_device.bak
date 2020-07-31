@@ -9,6 +9,7 @@ F1 "19-217-R6C-AL1M2VY-3T" 0 100 50 H V C CNN
 F2 "0_MyFootprint:Everlight_LED_1608" 0 -150 50 H I C CNN
 F3 "https://statics3.seeedstudio.com/images/opl/datasheet/0330020P1.pdf" -50 -250 50 H I C CNN
 F4 "2" 0 -350 60 H I C CNN "Pin"
+ALIAS 19-217-G7C-AN1P2-3T
 $FPLIST
  LED-*
  LED_*
@@ -119,7 +120,29 @@ F1 "SML-D12D1WT86" 0 100 50 H V C CNN
 F2 "0_MyFootprint:SML-D12" 0 -150 50 H I C CNN
 F3 "http://www.rohm.co.jp/web/japan/datasheet/SML-D12D1W/sml-d12x1-j" -50 -250 50 H I C CNN
 F4 "2" 0 -350 60 H I C CNN "Pin"
-ALIAS SML-D12M1WT86 SML-D12U1WT86 SML-D12Y1WT86
+ALIAS SML-D12M1WT86 SML-D12U1WT86 SML-D12Y1WT86 SML-D12V1WT86
+$FPLIST
+ LED-*
+ LED_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -50 50 -50 -50 N
+P 3 0 1 0 -80 -25 -125 -65 -120 -40 N
+P 3 0 1 0 -65 -40 -110 -80 -105 -55 N
+P 4 0 1 0 -50 0 25 50 25 -50 -50 0 F
+X K 1 -100 0 50 R 40 40 1 1 P
+X A 2 100 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SML-D12Y3WT86
+#
+DEF SML-D12Y3WT86 D 0 40 Y N 1 F N
+F0 "D" 0 200 50 H V C CNN
+F1 "SML-D12Y3WT86" 0 100 50 H V C CNN
+F2 "0_MyFootprint:SML-D12" 0 -150 50 H I C CNN
+F3 "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12y3w-fw-j.pdf" -50 -250 50 H I C CNN
+F4 "2" 0 -350 60 H I C CNN "Pin"
 $FPLIST
  LED-*
  LED_*
@@ -143,6 +166,28 @@ F2 "0_MyFootprint:ROH_SML-EN1_SML-ENx" 0 -150 50 H I C CNN
 F3 "https://www.rohm.co.jp/datasheet/SMLEN3WBC8W/sml-e1-j" -50 -250 50 H I C CNN
 F4 "2" 0 -350 60 H I C CNN "Pin"
 F5 "0.4" 0 -500 60 H I C CNN "Height (max)"
+$FPLIST
+ LED-*
+ LED_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -50 50 -50 -50 N
+P 3 0 1 0 -80 -25 -125 -65 -120 -40 N
+P 3 0 1 0 -65 -40 -110 -80 -105 -55 N
+P 4 0 1 0 -50 0 25 50 25 -50 -50 0 F
+X K 1 -100 0 50 R 40 40 1 1 P
+X A 2 100 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMLD12E3N1WT86
+#
+DEF SMLD12E3N1WT86 D 0 40 Y N 1 F N
+F0 "D" 0 200 50 H V C CNN
+F1 "SMLD12E3N1WT86" 0 100 50 H V C CNN
+F2 "0_MyFootprint:SML-D12" 0 -150 50 H I C CNN
+F3 "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/smld12-j.pdf" -50 -250 50 H I C CNN
+F4 "2" 0 -350 60 H I C CNN "Pin"
 $FPLIST
  LED-*
  LED_*

@@ -40,14 +40,29 @@ D LED, 1608, red
 K LED, red
 $ENDCMP
 #
+$CMP SML-D12V1WT86
+D LED, 1608, red, 630nm
+K LED, 1608, red, 630nm
+$ENDCMP
+#
 $CMP SML-D12Y1WT86
 D LED, 1608, yellow
 K LED, yellow
 $ENDCMP
 #
+$CMP SML-D12Y3WT86
+D LED, 1608, yellow, 581nm
+K LED, 1608, yellow, 581nm
+$ENDCMP
+#
 $CMP SML-EN3WBC8W
 D LED, 1608, White
 K LED, 1608, White
+$ENDCMP
+#
+$CMP SMLD12E3N1WT86
+D LED, 1608, blue green, 496nm
+K LED, 1608, blue green, 496nm
 $ENDCMP
 #
 $CMP SMLP34RGB2W3

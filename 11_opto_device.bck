@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 19-217-G7C-AN1P2-3T
+D Fusion OPL, Everlight, LED, 1608, Green
+K Fusion OPL, Everlight, LED, 1608, Green
+$ENDCMP
+#
 $CMP 19-217-R6C-AL1M2VY-3T
 D Fusion OPL, Everlight, LED, 1608, red
 K Fusion OPL, Everlight, LED, 1608, red
@@ -35,14 +40,29 @@ D LED, 1608, red
 K LED, red
 $ENDCMP
 #
+$CMP SML-D12V1WT86
+D LED, 1608, red, 630nm
+K LED, 1608, red, 630nm
+$ENDCMP
+#
 $CMP SML-D12Y1WT86
 D LED, 1608, yellow
 K LED, yellow
 $ENDCMP
 #
+$CMP SML-D12Y3WT86
+D LED, 1608, orange
+K LED, orange
+$ENDCMP
+#
 $CMP SML-EN3WBC8W
 D LED, 1608, White
 K LED, 1608, White
+$ENDCMP
+#
+$CMP SMLD12E3N1WT86
+D LED, 1608, blue green, 496nm
+K LED, 1608, blue green, 496nm
 $ENDCMP
 #
 $CMP SMLP34RGB2W3
