@@ -100,6 +100,11 @@ D Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 K Rohm, Reset IC, 2.7V, Open-Drain, Fixed Delay
 $ENDCMP
 #
+$CMP BU4825FVE
+D Rohm, Reset IC, 2.5V, Open Drain, Fixed Delay
+K Rohm, Reset IC, 2.5V, Open Drain, Fixed Delay
+$ENDCMP
+#
 $CMP CAP1296-1-SL
 D 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
 K 6-Channel Capacitive Touch Sensor with Proximity, SOIC, Microchip
@@ -361,6 +366,11 @@ $ENDCMP
 $CMP TPS61099
 D 5V/0.8A Boost
 K Boost, DCDC, 5V
+$ENDCMP
+#
+$CMP TPS63050
+D Adjustable Voltage, Buck-Boost, VQFN
+K Adjustable Voltage, Buck-Boost, VQFN
 $ENDCMP
 #
 $CMP TPS63050RMW
