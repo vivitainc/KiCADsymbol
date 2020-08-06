@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP K2-0.68S-SP18.3-25.5L-1
-D point
-K point tp
+D pogo pin receptacle
+K pogo pin receptacle
 $ENDCMP
 #
 $CMP PKM17EPPH4001-B0

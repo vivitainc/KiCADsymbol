@@ -20,4 +20,9 @@ D point
 K point tp
 $ENDCMP
 #
+$CMP TP_1.0mm
+D point
+K point tp
+$ENDCMP
+#
 #End Doc Library
