@@ -5,9 +5,21 @@ D Inductor Murata 1286AS-H-1R5M
 K Murata 1286AS-H-1R5M
 $ENDCMP
 #
+$CMP ACP3225-102-2P-T000
+D EMI 2-inductor-filter
+K EMI filter
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c30e.ashx?la=en-gb
+$ENDCMP
+#
 $CMP DFE252012F-2R2M
-D Murata, DFE252012F-2R2M, 2.2uH, Itemp 2.3A, Isat 3.3A, Metal 
-K Murata DFE252012F-2R2M Metal
+D Murata, 2.2uH, Itemp 2.3A, Isat 3.3A, Metal 
+K Murata, 2.2uH, Itemp 2.3A, Isat 3.3A, Metal 
+$ENDCMP
+#
+$CMP EMI_Filter_CommonMode
+D TDK, common mode choke, 1.5A, 3225
+K TDK, common mode choke, 1.5A, 3225
+F ~
 $ENDCMP
 #
 $CMP FDV0530-H-1R0M
