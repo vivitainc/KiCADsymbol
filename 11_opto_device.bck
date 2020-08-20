@@ -51,8 +51,8 @@ K LED, yellow
 $ENDCMP
 #
 $CMP SML-D12Y3WT86
-D LED, 1608, orange
-K LED, orange
+D LED, 1608, yellow, 581nm
+K LED, 1608, yellow, 581nm
 $ENDCMP
 #
 $CMP SML-EN3WBC8W
