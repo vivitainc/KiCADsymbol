@@ -115,6 +115,12 @@ D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 $ENDCMP
 #
+$CMP JAGM12-56J93
+D Mini DC Geared Motor Connector
+K Mini DC Geared Motor Connector
+F mylib/KiCADfootprint.pretty/JAGM12-56J93.kicad_mod
+$ENDCMP
+#
 $CMP MiniGearedMotor
 D Mini DC Geared Motor Connector
 K Mini DC Geared Motor Connector
