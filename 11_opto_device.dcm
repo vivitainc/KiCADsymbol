@@ -15,6 +15,11 @@ D Fusion OPL, Everlight, LED, 1608, red
 K Fusion OPL, Everlight, LED, 1608, red
 $ENDCMP
 #
+$CMP ORH-R36G
+D LED, 1608, red
+K LED, red
+$ENDCMP
+#
 $CMP RPR-220
 D Rohm, photo riflector
 K Rohm, photo riflector

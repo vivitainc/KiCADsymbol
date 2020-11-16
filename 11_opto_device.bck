@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0603HOC
+D Tai Hua Jie Electronics LED, 1608, orange 
+K LED, orange
+$ENDCMP
+#
 $CMP 19-217-G7C-AN1P2-3T
 D Fusion OPL, Everlight, LED, 1608, Green
 K Fusion OPL, Everlight, LED, 1608, Green
@@ -8,6 +13,11 @@ $ENDCMP
 $CMP 19-217-R6C-AL1M2VY-3T
 D Fusion OPL, Everlight, LED, 1608, red
 K Fusion OPL, Everlight, LED, 1608, red
+$ENDCMP
+#
+$CMP ORH-R36G
+D LED, 1608, orange
+K LED, orange
 $ENDCMP
 #
 $CMP RPR-220

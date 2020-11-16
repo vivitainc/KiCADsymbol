@@ -368,12 +368,6 @@ D 5V/0.8A Boost
 K Boost, DCDC, 5V
 $ENDCMP
 #
-$CMP TPS63050
-D Adjustable Voltage, Buck-Boost, DSBGA
-K Adjustable Voltage, Buck-Boost, DSBGA
-F mylib/KiCADfootprint.pretty/DSBGA-12pin.kicad_mod
-$ENDCMP
-#
 $CMP TPS63050RMW
 D Adjustable Voltage, Buck-Boost, VQFN
 K Adjustable Voltage, Buck-Boost, VQFN
