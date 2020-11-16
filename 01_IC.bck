@@ -20,6 +20,11 @@ D ATMEGA328P-AU, this symbol for Arduino
 K ATMEGA328P, AVR, Arduino
 $ENDCMP
 #
+$CMP ATMEGA328PB-AU
+D ATMEGA328PB-AU, QFP, this symbol for Arduino, Fusion OPL
+K ATMEGA328PB, QFP, AVR, Arduino, Fusion OPL
+$ENDCMP
+#
 $CMP ATMEGA328PB-AUR
 D ATMEGA328PB-AUR, QFP, this symbol for Arduino
 K ATMEGA328PB, QFP, AVR, Arduino
@@ -291,6 +296,11 @@ $ENDCMP
 $CMP SN74LVC138ARSVR
 D 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
 K 3-Line to 8-Line Decoders, TI, Vin 2 to 3.6V
+$ENDCMP
+#
+$CMP SN74LVC2G126DCTR
+D Double Tri-state Buffer, Fusion OPL
+K Double Tri-state Buffer, Fusion OPL
 $ENDCMP
 #
 $CMP Si8605AD-B-IS
