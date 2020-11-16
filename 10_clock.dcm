@@ -5,6 +5,11 @@ D CERALOCK, Ceramic Resonators, 16MHz
 K CERALOCK, Ceramic Resonators, 16MHz
 $ENDCMP
 #
+$CMP CSTCE8M00G15L99-R0
+D Fusion OPL
+K Fusion OPL
+$ENDCMP
+#
 $CMP CSTCR4M00G53-R0
 D CERALOCK, Ceramic Resonators, 4MHz, 15pF, 60ohm
 K CERALOCK, Ceramic Resonators, 4MHz, 15pF, 60ohm
