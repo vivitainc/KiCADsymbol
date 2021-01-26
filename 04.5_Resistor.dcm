@@ -20,6 +20,10 @@ D ALPS, Volume, 10k, 1B
 K ALPS, Volume, 10k, 1B
 $ENDCMP
 #
+$CMP R_1005
+D Thermistor, 10k, +/-1%, 3380K
+$ENDCMP
+#
 $CMP R_alt
 D 4 resistors Pack
 K R DEV
