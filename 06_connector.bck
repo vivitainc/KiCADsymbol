@@ -118,6 +118,7 @@ $ENDCMP
 $CMP JAGM12-56J93
 D Mini DC Geared Motor Connector
 K Mini DC Geared Motor Connector
+F mylib/KiCADfootprint.pretty/JAGM12-56J93.kicad_mod
 $ENDCMP
 #
 $CMP MiniGearedMotor
@@ -152,6 +153,16 @@ $ENDCMP
 $CMP UE27-AC54-100
 D USB Type-A Receptacle
 K USB Type-A Receptacle
+$ENDCMP
+#
+$CMP USB-B
+D USB Type B connector
+K connector USB
+$ENDCMP
+#
+$CMP USB_B
+D USB Type B connector
+K connector USB
 $ENDCMP
 #
 #End Doc Library

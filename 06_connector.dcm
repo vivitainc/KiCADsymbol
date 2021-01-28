@@ -155,4 +155,9 @@ D USB Type-A Receptacle
 K USB Type-A Receptacle
 $ENDCMP
 #
+$CMP USB-B
+D USB Type B connector
+K connector USB
+$ENDCMP
+#
 #End Doc Library
