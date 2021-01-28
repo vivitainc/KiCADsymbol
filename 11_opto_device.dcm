@@ -15,6 +15,16 @@ D Fusion OPL, Everlight, LED, 1608, red
 K Fusion OPL, Everlight, LED, 1608, red
 $ENDCMP
 #
+$CMP ORH-B36G
+D LED, 1608, blue ,Fusion OPL
+K LED, blue, Fusion OPL
+$ENDCMP
+#
+$CMP ORH-G36G
+D LED, 1608, green ,Fusion OPL
+K LED, green, Fusion OPL
+$ENDCMP
+#
 $CMP ORH-R36G
 D LED, 1608, red ,Fusion OPL
 K LED, red, Fusion OPL
