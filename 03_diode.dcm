@@ -25,6 +25,11 @@ D TVS Diode
 K TVS Diode
 $ENDCMP
 #
+$CMP MBR0520LT1G
+D Fusion OPL, Schottky barrier diode
+K Fusion OPL, Schottky barrier diode
+$ENDCMP
+#
 $CMP RB511SM-30FHT2R
 D Rohm, Schottky barrier diode, 1.2x0.8mm
 K Rohm, Schottky barrier diode, 1.2x0.8mm
