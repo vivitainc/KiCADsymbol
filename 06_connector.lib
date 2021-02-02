@@ -740,7 +740,7 @@ F1 "Grove_1x04" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- Grove_1x04
+ Grove_*
 $ENDFPLIST
 DRAW
 S -50 -195 0 -205 1 1 6 N
