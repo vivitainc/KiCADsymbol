@@ -115,6 +115,12 @@ D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 $ENDCMP
 #
+$CMP Grove_1x04
+D Grove connector, single row, 01x04
+K connector
+F ~
+$ENDCMP
+#
 $CMP JAGM12-56J93
 D Mini DC Geared Motor Connector
 K Mini DC Geared Motor Connector
