@@ -30,6 +30,11 @@ D Fusion OPL, Schottky barrier diode
 K Fusion OPL, Schottky barrier diode
 $ENDCMP
 #
+$CMP MRA4004T3G
+D Fusion OPL, ON,  Switching Diode, 1A
+K Fusion OPL, ON,  Switching Diode, 1A
+$ENDCMP
+#
 $CMP RB511SM-30FHT2R
 D Rohm, Schottky barrier diode, 1.2x0.8mm
 K Rohm, Schottky barrier diode, 1.2x0.8mm
