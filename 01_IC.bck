@@ -333,6 +333,11 @@ D Hot Swappable 2-Wire Bus Buffers
 K Hot Swappable 2-Wire Bus Buffers
 $ENDCMP
 #
+$CMP TLV73333PDBVR
+D Fusion OPL, Texas Instruments, LDO, 3.3V, 300mA
+K Fusion OPL, Texas Instruments, LDO, 3.3V, 300mA
+$ENDCMP
+#
 $CMP TPS22929DDBV
 D Load Switch With Controlled Turn-on, Discharge, Softstart
 K Load Switch With Controlled Turn-on, Discharge, Softstart

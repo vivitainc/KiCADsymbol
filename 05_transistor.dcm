@@ -5,6 +5,12 @@ D FusionPCB OPL, 2 x N-channel MOSFET, Dual
 K FusionPCB OPL, 2 x N-channel MOSFET, Dual
 $ENDCMP
 #
+$CMP 2N7002K
+D 60V, 0.3A, N-Channel MOSFET, SOT-23, Fusion OPL
+K 60V, 0.3A, N-Channel MOSFET, SOT-23, Fusion OPL
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
 $CMP 2N7002W
 D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET Logic Level
@@ -70,6 +76,11 @@ $CMP NTJS4151P
 D (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
 K (ディスコン) −20 V, −4.2 A, Single P−Channel, SC−88
 F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP NTS4101P
+D Fusion OPL, P-Channel MOSFET, SC-70, 20V, 1.37A
+K Fusion OPL, P-Channel MOSFET, SC-70, 20V, 1.37A
 $ENDCMP
 #
 $CMP NTZS3151P
