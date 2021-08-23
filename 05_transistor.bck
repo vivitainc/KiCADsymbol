@@ -42,6 +42,11 @@ D Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
 K Fusion OPL, DIODES, N-channel MOSFET, small signal, SOT-323
 $ENDCMP
 #
+$CMP BSS84
+D 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
+K 30V Vds, 0.1A Id, P-Channel MOSFET, SOT-723, small signal
+$ENDCMP
+#
 $CMP CSTNE8M00G550000R0
 D CERALOCK, Ceramic Resonators, 8MHz
 K CERALOCK, Ceramic Resonators, 8MHz
