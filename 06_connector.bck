@@ -132,6 +132,12 @@ D Mini DC Geared Motor Connector
 K Mini DC Geared Motor Connector
 $ENDCMP
 #
+$CMP PinHeader_10x2_2.54
+D Generic connector, double row, 02x10, counter clockwise pin numbering scheme (similar to DIP packge numbering)
+K connector
+F ~
+$ENDCMP
+#
 $CMP PinHeader_4x1_1.27
 D 1.27mm pitch Pin Header, DIP
 $ENDCMP
