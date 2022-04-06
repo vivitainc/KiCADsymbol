@@ -115,6 +115,10 @@ D BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 K BtoB Connector, Hirose, 3.5mm Height, Receptacle, 40pin
 $ENDCMP
 #
+$CMP DX07S016JA1
+D USB type-C USB2.0
+$ENDCMP
+#
 $CMP Grove_1x04
 D Grove connector, single row, 01x04
 K connector

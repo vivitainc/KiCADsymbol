@@ -138,6 +138,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP PinHeader_10x2_2.54_Odd_Even
+D Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)
+K connector
+F ~
+$ENDCMP
+#
 $CMP PinHeader_4x1_1.27
 D 1.27mm pitch Pin Header, DIP
 $ENDCMP

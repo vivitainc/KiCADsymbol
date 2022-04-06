@@ -40,4 +40,9 @@ D Rohm, Schottky barrier diode, 1.2x0.8mm
 K Rohm, Schottky barrier diode, 1.2x0.8mm
 $ENDCMP
 #
+$CMP UFM13PL-TP
+D Fusion OPL, ON,  Switching Diode, 1A
+K Fusion OPL, ON,  Switching Diode, 1A
+$ENDCMP
+#
 #End Doc Library
