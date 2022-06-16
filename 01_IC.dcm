@@ -5,6 +5,11 @@ D Diodes Double / Dual Tri-state Buffer
 K Diodes Double / Dual Tri-state Buffer
 $ENDCMP
 #
+$CMP AD5247
+D Digital Potentiometer
+K Digital Potentiometer I2C
+$ENDCMP
+#
 $CMP AP2210K-3.3TRG1
 D DIODES, LDO, 3.3V, 300mA
 K DIODES, LDO, 3.3V, 300mA
@@ -200,6 +205,11 @@ $ENDCMP
 $CMP NCP5623CMUTBG
 D Onsemi, 3 channel LED Driver with Charge Pump
 K Onsemi, 3 channel LED Driver with Charge Pump
+$ENDCMP
+#
+$CMP NJM2113
+D LOW VOLTAGE AUDIO POWER AMPLIFIER
+K LOW VOLTAGE AUDIO POWER AMPLIFIER
 $ENDCMP
 #
 $CMP NL17SZ14DFT2G

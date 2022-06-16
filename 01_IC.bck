@@ -202,6 +202,11 @@ D Onsemi, 3 channel LED Driver with Charge Pump
 K Onsemi, 3 channel LED Driver with Charge Pump
 $ENDCMP
 #
+$CMP NJM2113
+D LOW VOLTAGE AUDIO POWER AMPLIFIER
+K LOW VOLTAGE AUDIO POWER AMPLIFIER
+$ENDCMP
+#
 $CMP NL17SZ14DFT2G
 D Single Inverter with Schmitt Trigger
 K Single Inverter with Schmitt Trigger

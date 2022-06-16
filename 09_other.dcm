@@ -10,6 +10,11 @@ D Audio speaker, 2 pins, generic symbol
 K buzzer beeper sound
 $ENDCMP
 #
+$CMP SMS-1508MS-HT-R
+D Audio speaker, 2 pins, generic symbol
+K buzzer beeper sound
+$ENDCMP
+#
 $CMP TEST_POINT
 D point
 K point tp
