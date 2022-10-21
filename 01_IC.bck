@@ -5,6 +5,11 @@ D Diodes Double / Dual Tri-state Buffer
 K Diodes Double / Dual Tri-state Buffer
 $ENDCMP
 #
+$CMP AD5247
+D Digital Potentiometer
+K Digital Potentiometer I2C
+$ENDCMP
+#
 $CMP AP2210K-3.3TRG1
 D DIODES, LDO, 3.3V, 300mA
 K DIODES, LDO, 3.3V, 300mA
@@ -159,6 +164,11 @@ D Onsemi, Fuel Gauge for 1cell
 K Onsemi, Fuel Gauge for 1cell
 $ENDCMP
 #
+$CMP LDLN030G33R
+D Fusion OPL, STMicroelectronics, LDO, 3.3V, 300mA
+K Fusion OPL, STMicroelectronics, LDO, 3.3V, 300mA
+$ENDCMP
+#
 $CMP LMS33460MG_NOPB
 D Reset IC, 3.0V, TI
 K Reset IC, 3.0V, TI
@@ -167,6 +177,11 @@ $ENDCMP
 $CMP LSM6DS3TR
 D STMicro, 6DoF (Gyro, Accel)
 K STMicro, 6DoF (Gyro, Accel)
+$ENDCMP
+#
+$CMP MCP4018T
+D Digital Potentiometer
+K Digital Potentiometer I2C
 $ENDCMP
 #
 $CMP MCWI03-12S05
