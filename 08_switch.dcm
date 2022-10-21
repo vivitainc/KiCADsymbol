@@ -25,6 +25,11 @@ D toggle switch, SPDT, 中点あり, Akiduki
 K toggle switch, SPDT, 中点あり, Akiduki
 $ENDCMP
 #
+$CMP JS202011CQN
+D toggle switch, DPDT,  中点なし, Akiduki
+K toggle switch, DPDT,  中点なし, Akiduki
+$ENDCMP
+#
 $CMP KMT071NGJLHS
 D tact switch, C&K, 2.26N, 3.7x3.7
 K tact switch, C&K, 2.26N, 3.7x3.7
