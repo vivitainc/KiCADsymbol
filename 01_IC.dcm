@@ -338,6 +338,11 @@ D Double Schmitt Trigger Inverter
 K Double Schmitt Trigger Inverter
 $ENDCMP
 #
+$CMP TC7S14F
+D Schmitt Trigger Inverter
+K Schmitt Trigger Inverter
+$ENDCMP
+#
 $CMP TC7SH17FU
 D Single buffer with Schmitt Trigger
 K Single buffer with Schmitt Trigger
