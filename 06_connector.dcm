@@ -178,6 +178,11 @@ D Fusion OPL, HRO, USB Micro-B, SMD
 K Fusion OPL, HRO, USB Micro-B, SMD
 $ENDCMP
 #
+$CMP UB1611-HGN
+D USB type-C USB2.0 JLCPCB
+K JLCPCB
+$ENDCMP
+#
 $CMP UE27-AC54-100
 D USB Type-A Receptacle
 K USB Type-A Receptacle
