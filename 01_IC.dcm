@@ -328,6 +328,11 @@ D Double Tri-state Buffer, Fusion OPL
 K Double Tri-state Buffer, Fusion OPL
 $ENDCMP
 #
+$CMP SN74LVC2G126DCUR
+D Double Tri-state Buffer, JLCPCB
+K Double Tri-state Buffer, JLCPCB
+$ENDCMP
+#
 $CMP Si8605AD-B-IS
 D I2C Isolator, Silicon Labs
 K I2C Isolator, Silicon Labs
