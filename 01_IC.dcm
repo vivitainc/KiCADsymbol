@@ -15,6 +15,11 @@ D DIODES, LDO, 3.3V, 300mA
 K DIODES, LDO, 3.3V, 300mA
 $ENDCMP
 #
+$CMP AP7333-33SAG-7
+D LDO, 3.3V out, Vin 2 to 6V, 300mA, JLCPCB
+K LDO, 3.3V out, Vin 2 to 6V, 300mA, JLCPCB
+$ENDCMP
+#
 $CMP APDS-9960
 D Avago, Proximity, Ambient Light, RGB, Gesture Sensor
 K Avago, Proximity, Ambient Light, RGB, Gesture Sensor
