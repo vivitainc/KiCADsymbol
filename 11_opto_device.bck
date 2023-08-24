@@ -15,6 +15,31 @@ D Fusion OPL, Everlight, LED, 1608, red
 K Fusion OPL, Everlight, LED, 1608, red
 $ENDCMP
 #
+$CMP NCD0603B1
+D LED, 1608, blue, JLCPCB
+K LED, blue, JLCPCB
+$ENDCMP
+#
+$CMP NCD0603O1
+D LED, 1608, orange, JLCPCB
+K LED, orange, JLCPCB
+$ENDCMP
+#
+$CMP NCD0603R1
+D LED, 1608, red, JLCPCB
+K LED, red, JLCPCB
+$ENDCMP
+#
+$CMP NCD0603Y1
+D LED, 1608, yellow, JLCPCB
+K LED, yellow, JLCPCB
+$ENDCMP
+#
+$CMP ORH-B36G
+D LED, 1608, blue ,Fusion OPL
+K LED, blue, Fusion OPL
+$ENDCMP
+#
 $CMP ORH-G36G
 D LED, 1608, green ,Fusion OPL
 K LED, green, Fusion OPL
