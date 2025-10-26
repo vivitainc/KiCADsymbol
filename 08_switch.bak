@@ -1,375 +1,4462 @@
-EESchema-LIBRARY Version 2.3
-#encoding utf-8
-#
-# 2MD1T2B4M2QN
-#
-DEF 2MD1T2B4M2QN SW 0 40 N N 1 F N
-F0 "SW" 0 450 50 H V C CNN
-F1 "2MD1T2B4M2QN" 0 350 50 H V C CNN
-F2 "0_MyFootprint:2MD1T2B4M2QN" 0 600 50 H I C CNN
-F3 "http://akizukidenshi.com/download/2MD1T2B4M2QN.pdf" 300 700 50 H I C CNN
-F4 "6" 350 650 60 H I C CNN "Pin"
-DRAW
-C -90 -150 10 0 1 0 N
-C -90 150 10 0 1 0 N
-C 50 -210 10 0 1 0 N
-C 50 -90 10 0 1 0 N
-C 50 90 10 0 1 0 N
-C 50 210 10 0 1 0 N
-S -150 300 100 -300 0 1 0 N
-P 2 0 1 0 -80 -150 90 -90 N
-P 2 0 1 0 -80 150 90 210 N
-P 2 0 1 0 50 -250 50 -220 N
-P 2 0 1 0 50 -50 50 -80 N
-P 2 0 1 0 50 50 50 80 N
-P 2 0 1 0 50 220 50 250 N
-X 1 1 150 250 100 L 50 50 0 1 P
-X 2 2 -200 150 100 R 50 50 0 1 P
-X 4 4 150 -50 100 L 50 50 0 1 P
-X 5 5 -200 -150 100 R 50 50 0 1 P
-X 3 3 150 50 100 L 50 50 1 1 P
-X 6 6 150 -250 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# 946H-1C-3D
-#
-DEF 946H-1C-3D SW 0 0 N Y 1 F N
-F0 "SW" 0 750 50 H V C CNN
-F1 "946H-1C-3D" 0 650 50 H V C CNN
-F2 "" 1300 -50 50 H V C CNN
-F3 "" 1300 -50 50 H V C CNN
-DRAW
-C 400 -85 15 0 1 0 N
-C 400 85 15 0 1 0 N
-S -350 250 500 -200 0 1 0 N
-S 150 100 250 -100 0 1 0 N
-P 2 0 1 0 -250 0 200 0 N
-P 2 0 1 0 200 -100 200 -200 N
-P 2 0 1 0 200 0 430 100 N
-P 2 0 1 0 200 250 200 100 N
-P 2 0 1 0 400 -200 400 -100 N
-P 2 0 1 0 400 250 400 100 N
-P 4 0 1 0 -250 250 -250 -200 -250 -100 -250 -200 N
-X IN1 1 -250 400 150 D 50 50 1 1 P
-X IN2 ~ -250 -350 150 U 50 50 1 1 P
-X L1 ~ 200 400 150 D 50 50 1 1 P
-X L2 ~ 200 -350 150 U 50 50 1 1 P
-X OUT1 ~ 400 400 150 D 50 50 1 1 P
-X OUT2 ~ 400 -350 150 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# B3FS-1050
-#
-DEF B3FS-1050 SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "B3FS-1050" 0 150 50 H V C CNN
-F2 "0_MyFootprint:B3FS-105X" 0 -300 50 H I C CNN
-F3 "https://www.fa.omron.co.jp/products/family/2654/dimension.html" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# EC12D1524403
-#
-DEF EC12D1524403 SW 0 40 N Y 1 F N
-F0 "SW" 550 -250 60 H V C CNN
-F1 "EC12D1524403" 800 -350 60 H V C CNN
-F2 "0_MyFootprint:RKJXV1224005" 0 -550 60 H I C CNN
-F3 "http://www.alps.com/prod/info/J/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html#製品写真" 250 -650 60 H I C CNN
-F4 "7" 0 -450 60 H I C CNN "Pin"
-$FPLIST
- EC12D
-$ENDFPLIST
-DRAW
-C -250 -50 10 0 0 0 N
-C -250 50 10 0 0 0 N
-C 0 -50 10 0 0 0 N
-C 0 50 10 0 0 0 N
-C 200 -50 10 0 0 0 N
-C 200 50 10 0 0 0 N
-T 0 50 300 60 0 0 0 A Normal 0 C C
-T 0 250 300 60 0 0 0 B Normal 0 C C
-T 0 150 -350 60 0 0 0 C Normal 0 C C
-T 0 -200 300 60 0 0 0 D Normal 0 C C
-T 0 -200 -350 60 0 0 0 E Normal 0 C C
-T 900 350 0 60 0 0 0 Encorder Normal 0 C C
-T 900 -150 0 60 0 0 0 SW Normal 0 C C
-S -450 350 400 -400 0 0 0 N
-P 2 0 0 0 -250 -50 -250 -400 N
-P 2 0 0 0 -250 50 -250 350 N
-P 2 0 0 0 -240 -50 -190 40 N
-P 2 0 0 0 0 50 0 150 N
-P 2 0 0 0 0 150 0 200 N
-P 2 0 0 0 0 200 0 250 N
-P 2 0 0 0 0 250 0 350 N
-P 2 0 0 0 10 -50 60 40 N
-P 2 0 0 0 100 -250 100 -400 N
-P 2 0 0 0 100 -250 100 -200 N
-P 2 0 0 0 100 -150 100 -200 N
-P 2 0 0 0 100 -100 100 -150 N
-P 2 0 0 0 200 50 200 150 N
-P 2 0 0 0 200 150 200 200 N
-P 2 0 0 0 200 200 200 250 N
-P 2 0 0 0 200 250 200 350 N
-P 2 0 0 0 210 -50 260 40 N
-P 4 0 0 0 0 -50 0 -100 200 -100 200 -50 N
-X 1 1 -550 -200 100 R 50 50 1 1 I
-X 2 2 -550 -300 100 R 50 50 1 1 I
-X ~ A 0 450 100 D 50 50 1 1 P
-X ~ B 200 450 100 D 50 50 1 1 P
-X ~ C 100 -500 100 U 50 50 1 1 P
-X ~ D -250 450 100 D 50 50 1 1 I
-X ~ E -250 -500 100 U 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# FT1E-2M-Z
-#
-DEF FT1E-2M-Z SW 0 40 N Y 1 F N
-F0 "SW" 0 450 50 H V C CNN
-F1 "FT1E-2M-Z" 0 350 50 H V C CNN
-F2 "0_MyFootprint:FUJISOKU_FT1x-2M-Z" 0 -300 50 H I C CNN
-F3 "http://akizukidenshi.com/download/ds/fujisoku/FT1E2MZ.pdf" 0 -400 50 H I C CNN
-F4 "5" 0 -500 60 H I C CNN "Pin"
-F5 "10.8" 0 -600 60 H I C CNN "Height (max)"
-DRAW
-C -90 150 10 0 1 0 N
-C 90 50 10 0 1 0 N
-C 90 250 10 0 1 0 N
-S -150 300 150 -150 0 1 0 N
-P 2 0 1 0 -80 150 90 240 N
-X 1 1 200 250 100 L 50 50 0 1 P
-X 2 2 -200 150 100 R 50 50 0 1 P
-X 3 3 200 50 100 L 50 50 1 1 P
-X 4 4 -200 -50 100 R 50 50 1 1 I
-X 5 5 200 -50 100 L 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# KMT071NGJLHS
-#
-DEF KMT071NGJLHS SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "KMT071NGJLHS" 0 150 50 H V C CNN
-F2 "0_MyFootprint:KMT0Series" 0 -300 50 H I C CNN
-F3 "http://www.ckswitches.com/media/1454/kmt0.pdf" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# PTS540JK035SMTRLFS
-#
-DEF PTS540JK035SMTRLFS SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "PTS540JK035SMTRLFS" 0 150 50 H V C CNN
-F2 "0_MyFootprint:PTS540series" 0 -300 50 H I C CNN
-F3 "http://www.ckswitches.com/media/1470/pts540.pdf" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# RKJXV1224005
-#
-DEF RKJXV1224005 SW 0 40 N Y 1 F N
-F0 "SW" 0 500 60 H V C CNN
-F1 "RKJXV1224005" 0 400 60 H V C CNN
-F2 "0_MyFootprint:RKJXV1224005" 0 -550 60 H I C CNN
-F3 "http://www.alps.com/prod/info/J/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html#製品写真" 250 -650 60 H I C CNN
-F4 "10" 0 -450 60 H I C CNN "Pin"
-DRAW
-C -100 -50 10 0 0 0 N
-C -100 50 10 0 0 0 N
-P 2 0 0 0 -150 -100 -100 -100 N
-P 2 0 0 0 -100 100 -150 100 N
-P 2 0 0 0 -90 -50 -40 40 N
-P 2 0 0 0 100 -225 100 -250 N
-P 2 0 0 0 100 -75 100 -50 N
-P 2 0 0 0 100 75 100 50 N
-P 2 0 0 0 100 225 100 250 N
-P 3 0 0 0 -150 -150 -100 -150 -100 -60 N
-P 3 0 0 0 -150 150 -100 150 -100 60 N
-S 75 -75 125 -225 0 1 0 N
-S 75 225 125 75 0 1 0 N
-P 2 0 1 0 150 -150 175 -150 N
-P 2 0 1 0 150 150 175 150 N
-P 4 0 1 0 125 -150 150 -125 150 -175 125 -150 F
-P 4 0 1 0 125 150 150 175 150 125 125 150 F
-X ~ a -250 150 100 R 50 50 1 1 I
-X ~ b -250 -100 100 R 50 50 1 1 I
-X ~ c -250 100 100 R 50 50 1 1 I
-X ~ d -250 -150 100 R 50 50 1 1 I
-X ~ X1 200 250 100 L 50 50 1 1 I
-X ~ Y1 200 -50 100 L 50 50 1 1 I
-X ~ X2 200 150 25 L 50 50 1 1 I
-X ~ Y2 200 -150 25 L 50 50 1 1 I
-X ~ X3 200 50 100 L 50 50 1 1 I
-X ~ Y3 200 -250 100 L 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# SKQGAKE010
-#
-DEF SKQGAKE010 SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "SKQGAKE010" 0 150 50 H V C CNN
-F2 "0_MyFootprint:SKQGseries" 0 -300 50 H I C CNN
-F3 "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKQG/SKQG_list.html" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-ALIAS SKQGADE010 SKQGABE010
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# SKRMABE010
-#
-DEF SKRMABE010 SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "SKRMABE010" 0 150 50 H V C CNN
-F2 "0_MyFootprint:SKRMseries" 0 -300 50 H I C CNN
-F3 "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKRM/SKRMABE010.html" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# SS12D01G4
-#
-DEF SS12D01G4 SW 0 40 N Y 1 F N
-F0 "SW" 0 300 50 H V C CNN
-F1 "SS12D01G4" 0 200 50 H V C CNN
-F2 "0_MyFootprint:SS12D01G4" 0 -300 50 H I C CNN
-F3 "http://akizukidenshi.com/download/SS12D01G4.pdf" 0 -400 50 H I C CNN
-F4 "3" 0 -500 60 H I C CNN "Pin"
-F5 "7.5" 0 -600 60 H I C CNN "Height (max)"
-DRAW
-C -90 0 10 0 1 0 N
-C 90 -100 10 0 1 0 N
-C 90 100 10 0 1 0 N
-S -150 150 150 -150 0 1 0 N
-P 2 0 1 0 -80 0 90 90 N
-X 1 1 200 100 100 L 50 50 0 1 P
-X 2 2 -200 0 100 R 50 50 0 1 P
-X 3 3 200 -100 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# SW_PUSH_SMALL_H
-#
-DEF SW_PUSH_SMALL_H SW 0 40 N N 1 F N
-F0 "SW" 80 110 50 H V C CNN
-F1 "SW_PUSH_SMALL_H" 360 -60 50 H V C CNN
-F2 "" 0 200 50 H V C CNN
-F3 "" 0 200 50 H V C CNN
-DRAW
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-P 2 0 1 0 -110 30 110 30 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -150 0 50 R 50 50 0 1 P
-X 2 2 150 0 50 L 50 50 0 1 P
-ENDDRAW
-ENDDEF
-#
-# TVGP01-G73BB
-#
-DEF TVGP01-G73BB SW 0 40 N N 1 F N
-F0 "SW" 0 250 50 H V C CNN
-F1 "TVGP01-G73BB" 0 150 50 H V C CNN
-F2 "0_MyFootprint:TVGP01-G73BB" 0 -300 50 H I C CNN
-F3 "http://akizukidenshi.com/download/ds/jianfu/TVGP01-G73BB.pdf" 0 -400 50 H I C CNN
-F4 "4" 0 -500 60 H I C CNN "Pin"
-DRAW
-C -150 0 10 0 1 0 F
-C -90 0 10 0 1 0 N
-C 90 0 10 0 1 0 N
-C 150 0 10 0 1 0 F
-P 2 0 1 0 -110 30 110 30 N
-P 2 0 1 0 150 -50 150 0 N
-P 2 0 1 0 150 0 100 0 N
-P 3 0 1 0 -150 -50 -150 0 -100 0 N
-P 4 0 1 0 -110 30 -110 40 110 40 110 30 N
-P 4 0 1 0 -50 40 -40 60 40 60 50 40 N
-X 1 1 -200 0 50 R 50 50 0 1 P
-X 3 3 200 0 50 L 50 50 0 1 P
-X 2 2 -200 -50 50 R 50 50 1 1 P
-X 4 4 200 -50 50 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-#End Library
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "2MD1T2B4M2QN"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2MD1T2B4M2QN"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:2MD1T2B4M2QN"
+			(at 0 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/2MD1T2B4M2QN.pdf"
+			(at 7.62 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "toggle switch, DPDT,  中点なし, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "6"
+			(at 8.89 16.51 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "toggle switch, DPDT,  中点なし, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "2MD1T2B4M2QN_0_1"
+			(rectangle
+				(start -3.81 7.62)
+				(end 2.54 -7.62)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 3.81)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 -3.81)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 3.81) (xy 2.286 5.334)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -3.81) (xy 2.286 -2.286)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 5.588) (xy 1.27 6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 5.334)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 2.286)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 2.032)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -2.032)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 -2.286)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 -5.334)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -6.35) (xy 1.27 -5.588)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 3.81 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -3.81 0)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 6.35 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 -1.27 180)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "2MD1T2B4M2QN_1_1"
+			(pin passive line
+				(at 3.81 1.27 180)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 -6.35 180)
+				(length 2.54)
+				(name "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "946H-1C-3D"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "946H-1C-3D"
+			(at 0 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 -1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 -1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "3V Relay, 1C, 2A/30VDC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "3V Relay, 1C, 2A/30VDC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "946H-1C-3D_0_1"
+			(rectangle
+				(start -8.89 6.35)
+				(end 12.7 -5.08)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 6.35) (xy -6.35 -5.08) (xy -6.35 -2.54) (xy -6.35 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 0) (xy 5.08 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 2.54)
+				(end 6.35 -2.54)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 6.35) (xy 5.08 2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 10.922 2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -2.54) (xy 5.08 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.16 6.35) (xy 10.16 2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 10.16 2.159)
+				(radius 0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 10.16 -2.159)
+				(radius 0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.16 -5.08) (xy 10.16 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "946H-1C-3D_1_1"
+			(pin passive line
+				(at -6.35 10.16 270)
+				(length 3.81)
+				(name "IN1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -6.35 -8.89 90)
+				(length 3.81)
+				(name "IN2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 10.16 270)
+				(length 3.81)
+				(name "L1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -8.89 90)
+				(length 3.81)
+				(name "L2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 10.16 270)
+				(length 3.81)
+				(name "OUT1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -8.89 90)
+				(length 3.81)
+				(name "OUT2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "B3FS-1050"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "B3FS-1050"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:B3FS-105X"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.fa.omron.co.jp/products/family/2654/dimension.html"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, 6.0mm x 6.3mm, Omron"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, 6.0mm x 6.3mm, Omron"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "B3FS-1050_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "B3FS-1050_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "EC12D1524403"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 13.97 -6.35 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "EC12D1524403"
+			(at 20.32 -8.89 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:RKJXV1224005"
+			(at 0 -13.97 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html#製品写真"
+			(at 6.35 -16.51 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ALPS, Rotary Encorder with push switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "7"
+			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "ALPS, Rotary Encorder with push switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "EC12D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "EC12D1524403_0_0"
+			(rectangle
+				(start -11.43 8.89)
+				(end 10.16 -10.16)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -6.35 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 1.27) (xy -6.35 8.89)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -6.35 -1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -1.27) (xy -6.35 -10.16)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.096 -1.27) (xy -4.826 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 6.35) (xy 0 8.89)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 5.08) (xy 0 6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 3.81) (xy 0 5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 1.27) (xy 0 3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -1.27) (xy 0 -2.54) (xy 5.08 -2.54) (xy 5.08 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 -1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.254 -1.27) (xy 1.524 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54) (xy 2.54 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -3.81) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -6.35) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -6.35) (xy 2.54 -10.16)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 6.35) (xy 5.08 8.89)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 5.08) (xy 5.08 6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 3.81) (xy 5.08 5.08)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 1.27) (xy 5.08 3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 5.08 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 5.08 -1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.334 -1.27) (xy 6.604 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "D"
+				(at -5.08 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "E"
+				(at -5.08 -8.89 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "SW"
+				(at -3.81 0 900)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "A"
+				(at 1.27 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "C"
+				(at 3.81 -8.89 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "B"
+				(at 6.35 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "Encorder"
+				(at 8.89 0 900)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+		)
+		(symbol "EC12D1524403_1_1"
+			(pin input line
+				(at -13.97 -5.08 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -13.97 -7.62 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 11.43 270)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -12.7 90)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 11.43 270)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 -12.7 90)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 11.43 270)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "FT1E-2M-Z"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FT1E-2M-Z"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:FUJISOKU_FT1x-2M-Z"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/ds/fujisoku/FT1E2MZ.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "toggle switch, SPDT, 中点あり, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "5"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height (max)" "10.8"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "toggle switch, SPDT, 中点あり, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "FT1E-2M-Z_0_1"
+			(rectangle
+				(start -3.81 7.62)
+				(end 3.81 -3.81)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 3.81)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 3.81) (xy 2.286 6.096)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 6.35)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 3.81 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 6.35 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "FT1E-2M-Z_1_1"
+			(pin input line
+				(at -5.08 -1.27 0)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 1.27 180)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 -1.27 180)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "JS202011CQN"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "JS202011CQN"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/2MD1T2B4M2QN.pdf"
+			(at 7.62 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "toggle switch, DPDT,  中点なし, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "6"
+			(at 8.89 16.51 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "toggle switch, DPDT,  中点なし, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "JS202011CQN_0_1"
+			(rectangle
+				(start -3.81 7.62)
+				(end 2.54 -7.62)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 3.81)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 -3.81)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 3.81) (xy 2.286 5.334)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -3.81) (xy 2.286 -2.286)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 5.588) (xy 1.27 6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 5.334)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 2.286)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 2.032)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -2.032)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 -2.286)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 -5.334)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -6.35) (xy 1.27 -5.588)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 3.81 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -3.81 0)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 6.35 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 -1.27 180)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "JS202011CQN_1_1"
+			(pin passive line
+				(at 3.81 1.27 180)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 -6.35 180)
+				(length 2.54)
+				(name "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "KH-SS12D01-G3-5.0"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 1.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "KH-SS12D01-G3-5.0"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590448000062824448"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Slide Switch JLCPCB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Slide Switch JLCPCB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "KH-SS12D01-G3-5.0_0_1"
+			(circle
+				(center -2.032 -5.08)
+				(radius 0.4572)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.651 -4.826) (xy 1.651 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.032 -2.54)
+				(radius 0.4572)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.032 -7.62)
+				(radius 0.4572)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "KH-SS12D01-G3-5.0_1_1"
+			(rectangle
+				(start -3.175 -1.27)
+				(end 3.175 -8.89)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -5.08 -5.08 0)
+				(length 2.54)
+				(name "B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -2.54 180)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -7.62 180)
+				(length 2.54)
+				(name "C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "KMT071NGJLHS"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "KMT071NGJLHS"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:KMT0Series"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ckswitches.com/media/1454/kmt0.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, C&K, 2.26N, 3.7x3.7"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, C&K, 2.26N, 3.7x3.7"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "KMT071NGJLHS_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "KMT071NGJLHS_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PTS540JK035SMTRLFS"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PTS540JK035SMTRLFS"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:PTS540series"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ckswitches.com/media/1470/pts540.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, C&K, 2.26N, 3.7x3.7"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, C&K, 2.26N, 3.7x3.7"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "PTS540JK035SMTRLFS_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "PTS540JK035SMTRLFS_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "RKJXV1224005"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "RKJXV1224005"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:RKJXV1224005"
+			(at 0 -13.97 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html#製品写真"
+			(at 6.35 -16.51 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ALPS, Analog Joy Stick with switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "10"
+			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "ALPS, Analog Joy Stick with switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "RKJXV1224005_0_0"
+			(polyline
+				(pts
+					(xy -3.81 3.81) (xy -2.54 3.81) (xy -2.54 1.524)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -2.54) (xy -2.54 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -3.81) (xy -2.54 -3.81) (xy -2.54 -1.524)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 2.54) (xy -3.81 2.54)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.54 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.54 -1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.286 -1.27) (xy -1.016 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 5.715) (xy 2.54 6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 1.905) (xy 2.54 1.27)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -1.905) (xy 2.54 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -5.715) (xy 2.54 -6.35)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "RKJXV1224005_0_1"
+			(rectangle
+				(start 1.905 5.715)
+				(end 3.175 1.905)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 1.905 -1.905)
+				(end 3.175 -5.715)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.175 3.81) (xy 3.81 4.445) (xy 3.81 3.175) (xy 3.175 3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.175 -3.81) (xy 3.81 -3.175) (xy 3.81 -4.445) (xy 3.175 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 3.81) (xy 4.445 3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -3.81) (xy 4.445 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "RKJXV1224005_1_1"
+			(pin input line
+				(at -6.35 3.81 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "a"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "c"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "b"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -3.81 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "d"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 6.35 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "X1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 3.81 180)
+				(length 0.635)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "X2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 1.27 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "X3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 -1.27 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "Y1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 -3.81 180)
+				(length 0.635)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "Y2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 -6.35 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "Y3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SKQGAKE010"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKQGAKE010"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:SKQGseries"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKQG/SKQG_list.html"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, alps, 3.43N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, alps,  3.43N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SKQGAKE010_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "SKQGAKE010_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SKRMABE010"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRMABE010"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:SKRMseries"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKRM/SKRMABE010.html"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, alps, 2.55N, 4.5x4.5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, alps,  2.55N, 4.5x4.5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SKRMABE010_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "SKRMABE010_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SS12D01G4"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SS12D01G4"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:SS12D01G4"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/SS12D01G4.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "slide switch, SPDT, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "3"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height (max)" "7.5"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "slide switch, SPDT, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SS12D01G4_0_1"
+			(rectangle
+				(start -3.81 3.81)
+				(end 3.81 -3.81)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 0) (xy 2.286 2.286)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 2.54)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 -2.54)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 2.54 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "SS12D01G4_1_1"
+			(pin passive line
+				(at 5.08 -2.54 180)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SW_PUSH_SMALL_H"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 2.032 2.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_PUSH_SMALL_H"
+			(at 9.144 -1.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Button"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SW_PUSH_SMALL_H_0_1"
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -3.81 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 0 180)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TVGP01-G73BB"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TVGP01-G73BB"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:TVGP01-G73BB"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/ds/jianfu/TVGP01-G73BB.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "tact switch, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin" "4"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, Akiduki"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TVGP01-G73BB_0_1"
+			(circle
+				(center -3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -1.27) (xy -3.81 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 0.762) (xy -2.794 1.016) (xy 2.794 1.016) (xy 2.794 0.762)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.016) (xy -1.016 1.524) (xy 1.016 1.524) (xy 1.27 1.016)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.286 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 3.81 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -1.27) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "TVGP01-G73BB_1_1"
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 1.27)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SKQGABE010"
+		(extends "SKQGAKE010")
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKQGABE010"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:SKQGseries"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKQG/SKQG_list.html"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, alps,  3.43N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "SKQGADE010"
+		(extends "SKQGAKE010")
+		(property "Reference" "SW"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKQGADE010"
+			(at 0 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0_MyFootprint:SKQGseries"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.alps.com/prod/info/J/HTML/Tact/SurfaceMount/SKQG/SKQG_list.html"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "tact switch, alps,  3.43N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+)
